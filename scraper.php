@@ -1,6 +1,6 @@
 <?php
-$urloficial='http://localhost/scraper/resultados/';
-
+$urloficial='http://www.datosoficiales.com/resultados/';
+http://www.datosoficiales.com/
 //$str = file_get_contents('API/cargos.json');
 //Now decode the JSON using json_decode():
 
