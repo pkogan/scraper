@@ -1,6 +1,6 @@
 <?php
 $urloficial='http://www.datosoficiales.com/resultados/';
-http://www.datosoficiales.com/
+//http://www.datosoficiales.com/
 //$str = file_get_contents('API/cargos.json');
 //Now decode the JSON using json_decode():
 
@@ -9,7 +9,7 @@ http://www.datosoficiales.com/
 
 //echo '<pre>' . print_r($cargos, true) . '</pre>';
 
-$str = file_get_contents('API/ubicaciones.json');
+$str = file_get_contents('API/ubicacionesrn.json');
 //Now decode the JSON using json_decode():
 
 $ubicaciones = json_decode($str, true); // decode the JSON into an associative array
@@ -56,6 +56,6 @@ foreach ($mesas as $key1 => $value1) {
 
 //se escribe lo escrapeado en un json
 $jsonmesas=json_encode($mesas2,JSON_PRETTY_PRINT);
-file_put_contents('salida/'.date('ymd Hms ').'mesas '.$cont_mesas.'.json', $jsonmesas);
+file_put_contents('salidagobrn2019/'.date('ymd Hms ').'mesas '.$cont_mesas.'.json', $jsonmesas);
 
 
