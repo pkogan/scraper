@@ -33,9 +33,10 @@ class Scrapper {
         $this->circuitos = [];
         foreach ($regions as $key => $value) {
             if ($value['tp'] == 'R' && $value['l'] == 4) {
+                //print_r ($value);exit;
                 $circuito['distrito'] = substr($value['cc'], 0, 2);
                 $circuito['seccion'] = substr($value['cc'], 2, 3);
-                $circuito['circuito'] = substr($value['cc'], 5, 5);
+                $circuito['circuito'] = substr($value['cc'], 5, 6);
                 $circuito['nombreCircuito'] = $value['n'];
                 $circuito['escuelas'] = $value['chd'];
                 $this->circuitos[] = $circuito;
@@ -85,12 +86,13 @@ class Scrapper {
             foreach ($value1['datos'] as $idmesa => $value) {
                 $mesa = $value1;
                 unset($mesa['datos']);
+                //print_r($value);exit;
                 $mesa['id'] = $value['c'];
                 $mesa['codigomesa'] = $value['cc'];
                 $mesa['codigomesa'] = substr($value['cc'], 5, 5);
                 $mesa['url'] = $value['rf'];
                 $datos = $this->descargarJsonMesa($mesa['url']);
-                //print_r($datos); exit;
+                //print_r($datos); 
                 $mesa['empadronados'] = $datos['st'][0]['v_exp_abs'];
                 $this->mesas[] = $mesa;
             }
@@ -160,8 +162,8 @@ class Scrapper {
 }
 
 $filtro = [];
-//$filtro['distrito'] = '4';
-//$filtro['seccion'] = 9;
+/*$filtro['distrito'] = '15';
+$filtro['seccion'] = 9;*/
 $sc = new Scrapper();
 $sc->init($filtro);
 
