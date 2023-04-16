@@ -1,1 +1,1199 @@
-{"candidaturas":[{"candidatos_principales":{"CNJ":{"descripcion":"Rodrigo Gabriel Emilio Arenas","dni":"22154220","id_candidatura":"1.21"},"INT":{"descripcion":"Marcelo Gabriel Bermudez","dni":"18395681","id_candidatura":"1.20"}},"clase":"Lista","color":null,"descripcion_lista":"Movimiento De Integracion Y Desarrollo","id_candidatura":"1","incluir_en_calculo_porcentaje":true,"nombre_corto":"MDIYD","nro_lista":"1"},{"candidatos_principales":{"CNJ":{"descripcion":"Fernanda Belen Christiansen","dni":"34088422","id_candidatura":"13.492"},"INT":{"descripcion":"Lucas Manuel Ruiz","dni":"30055507","id_candidatura":"13.491"}},"clase":"Lista","color":null,"descripcion_lista":"Movimiento Al Socialismo","id_candidatura":"13","incluir_en_calculo_porcentaje":true,"nombre_corto":"MAS","nro_lista":"13"},{"candidatos_principales":{"CNJ":{"descripcion":"Atilio Edgardo Sguazzini Mazuel","dni":"17643655","id_candidatura":"151.59"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"151.58"}},"clase":"Lista","color":null,"descripcion_lista":"Movimiento Popular Neuquino","id_candidatura":"151","incluir_en_calculo_porcentaje":true,"nombre_corto":"MPN","nro_lista":"151"},{"candidatos_principales":{"CNJ":{"descripcion":"Francisco Pancho Baggio","dni":"22505989","id_candidatura":"166.135"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"166.134"}},"clase":"Lista","color":null,"descripcion_lista":"Union De Los Neuquinos (Une)","id_candidatura":"166","incluir_en_calculo_porcentaje":true,"nombre_corto":"UDLNU","nro_lista":"166"},{"candidatos_principales":{"CNJ":{"descripcion":"Jose Luis Artaza","dni":"17758486","id_candidatura":"180.78"},"INT":{"descripcion":"Marcelo Gabriel Bermudez","dni":"18395681","id_candidatura":"180.77"}},"clase":"Lista","color":null,"descripcion_lista":"Nuevo Compromiso Neuquino","id_candidatura":"180","incluir_en_calculo_porcentaje":true,"nombre_corto":"NCN","nro_lista":"180"},{"candidatos_principales":{"CNJ":{"descripcion":"Alicia Marcelina Clavero","dni":"11339837","id_candidatura":"23.150"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"23.149"}},"clase":"Lista","color":null,"descripcion_lista":"Union Popular","id_candidatura":"23","incluir_en_calculo_porcentaje":true,"nombre_corto":"UP","nro_lista":"23"},{"candidatos_principales":{"CNJ":{"descripcion":"Jose Luis Artaza","dni":"17758486","id_candidatura":"40.40"},"INT":{"descripcion":"Marcelo Gabriel Bermudez","dni":"18395681","id_candidatura":"40.39"}},"clase":"Lista","color":null,"descripcion_lista":"Movimiento Libres Del Sur","id_candidatura":"40","incluir_en_calculo_porcentaje":true,"nombre_corto":"MLDS","nro_lista":"40"},{"candidatos_principales":{"CNJ":{"descripcion":"Jose Luis Artaza","dni":"17758486","id_candidatura":"47.2"},"INT":{"descripcion":"Marcelo Gabriel Bermudez","dni":"18395681","id_candidatura":"47.1"}},"clase":"Lista","color":null,"descripcion_lista":"Coalicion Civica - Afirmacion Para Una Republica Igualitaria (Ari)","id_candidatura":"47","incluir_en_calculo_porcentaje":true,"nombre_corto":"CCAPURIA","nro_lista":"47"},{"candidatos_principales":{"CNJ":{"descripcion":"Nadia Judith Marquez","dni":"30081631","id_candidatura":"5.97"},"INT":{"descripcion":"Jorge Omar Sobisch","dni":"7571737","id_candidatura":"5.96"}},"clase":"Lista","color":null,"descripcion_lista":"Partido Democrata Cristiano","id_candidatura":"5","incluir_en_calculo_porcentaje":true,"nombre_corto":"PDC","nro_lista":"5"},{"candidatos_principales":{"CNJ":{"descripcion":"Jose Luis Artaza","dni":"17758486","id_candidatura":"64.116"},"INT":{"descripcion":"Marcelo Gabriel Bermudez","dni":"18395681","id_candidatura":"64.115"}},"clase":"Lista","color":null,"descripcion_lista":"Pro-Propuesta Republicana","id_candidatura":"64","incluir_en_calculo_porcentaje":true,"nombre_corto":"PPR","nro_lista":"64"},{"candidatos_principales":{"CNJ":{"descripcion":"Cesar  Parra","dni":"30565683","id_candidatura":"662.473"},"INT":{"descripcion":"Angelica Lagunas","dni":"22474492","id_candidatura":"662.472"}},"clase":"Lista","color":null,"descripcion_lista":"Frente De Izquierda Y De Trabajadores - Unidad","id_candidatura":"662","incluir_en_calculo_porcentaje":true,"nombre_corto":"FDIYDTU","nro_lista":"662"},{"candidatos_principales":{"CNJ":{"descripcion":"Ana Ines Servidio","dni":"29159343","id_candidatura":"663.454"},"INT":{"descripcion":"Marcelo Zu\u00f1iga","dni":"24413491","id_candidatura":"663.453"}},"clase":"Lista","color":null,"descripcion_lista":"Frente De Todos Neuquen","id_candidatura":"663","incluir_en_calculo_porcentaje":true,"nombre_corto":"FDTN","nro_lista":"663"},{"candidatos_principales":{"CNJ":{"descripcion":"Jorge Omar Salas","dni":"16819927","id_candidatura":"842.283"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"842.282"}},"clase":"Lista","color":null,"descripcion_lista":"Frente Social Por La Dignidad","id_candidatura":"842","incluir_en_calculo_porcentaje":true,"nombre_corto":"FSPLD","nro_lista":"842"},{"candidatos_principales":{"CNJ":{"descripcion":"Camilo Echevarria","dni":"35864549","id_candidatura":"863.245"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"863.244"}},"clase":"Lista","color":null,"descripcion_lista":"Frente Integrador Neuquino","id_candidatura":"863","incluir_en_calculo_porcentaje":true,"nombre_corto":"FIN","nro_lista":"863"},{"candidatos_principales":{"CNJ":{"descripcion":"Lorena Raquel Galvan","dni":"21929179","id_candidatura":"865.169"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"865.168"}},"clase":"Lista","color":null,"descripcion_lista":"Integracion Neuquina","id_candidatura":"865","incluir_en_calculo_porcentaje":true,"nombre_corto":"IN","nro_lista":"865"},{"candidatos_principales":{"CNJ":{"descripcion":"Claudio Alejandro Vasquez","dni":"30878991","id_candidatura":"867.188"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"867.187"}},"clase":"Lista","color":null,"descripcion_lista":"Movimiento De Unidad Popular","id_candidatura":"867","incluir_en_calculo_porcentaje":true,"nombre_corto":"MDUP","nro_lista":"867"},{"candidatos_principales":{"CNJ":{"descripcion":"Adrian Urrutia","dni":"22473940","id_candidatura":"878.207"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"878.206"}},"clase":"Lista","color":null,"descripcion_lista":"Movimiento Por La Igualdad, La Ciudadania Y La Justicia Social","id_candidatura":"878","incluir_en_calculo_porcentaje":true,"nombre_corto":"MPLILCYLJS","nro_lista":"878"},{"candidatos_principales":{"CNJ":{"descripcion":"Mario Leyria","dni":"20381300","id_candidatura":"882.264"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"882.263"}},"clase":"Lista","color":null,"descripcion_lista":"Frente Nuevo Neuquen","id_candidatura":"882","incluir_en_calculo_porcentaje":true,"nombre_corto":"FNN","nro_lista":"882"},{"candidatos_principales":{"CNJ":{"descripcion":"Antonio De Souza","dni":"7616225","id_candidatura":"883.302"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"883.301"}},"clase":"Lista","color":null,"descripcion_lista":"Iguales","id_candidatura":"883","incluir_en_calculo_porcentaje":true,"nombre_corto":"I","nro_lista":"883"},{"candidatos_principales":{"CNJ":{"descripcion":"Julio Osvaldo Ocampo","dni":"16816751","id_candidatura":"887.226"},"INT":{"descripcion":"Marcelo Gabriel Bermudez","dni":"18395681","id_candidatura":"887.225"}},"clase":"Lista","color":null,"descripcion_lista":"Somos Neuquen","id_candidatura":"887","incluir_en_calculo_porcentaje":true,"nombre_corto":"SN","nro_lista":"887"},{"candidatos_principales":{"CNJ":{"descripcion":"Pablo Horacio Larroulet","dni":"20843020","id_candidatura":"898.321"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"898.320"}},"clase":"Lista","color":null,"descripcion_lista":"Causa Comun","id_candidatura":"898","incluir_en_calculo_porcentaje":true,"nombre_corto":"CC","nro_lista":"898"},{"candidatos_principales":{"CNJ":{"descripcion":"Hector Horacio Baldo","dni":"16513284","id_candidatura":"900.435"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"900.434"}},"clase":"Lista","color":null,"descripcion_lista":"Movimiento Para El Desarrollo Neuquino","id_candidatura":"900","incluir_en_calculo_porcentaje":true,"nombre_corto":"MPEDN","nro_lista":"900"},{"candidatos_principales":{"CNJ":{"descripcion":"Luisa Soledad Diaz","dni":"31475556","id_candidatura":"901.378"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"901.377"}},"clase":"Lista","color":null,"descripcion_lista":"Juntos","id_candidatura":"901","incluir_en_calculo_porcentaje":true,"nombre_corto":"J","nro_lista":"901"},{"candidatos_principales":{"CNJ":{"descripcion":"Rodolfo Catella","dni":"18755598","id_candidatura":"902.397"},"INT":{"descripcion":"Juan Monteiro","dni":"26398785","id_candidatura":"902.396"}},"clase":"Lista","color":null,"descripcion_lista":"Juntos Por Neuquen","id_candidatura":"902","incluir_en_calculo_porcentaje":true,"nombre_corto":"JPN","nro_lista":"902"},{"candidatos_principales":{"CNJ":{"descripcion":"Claudia Andrea Sepulveda","dni":"26504285","id_candidatura":"903.340"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"903.339"}},"clase":"Lista","color":null,"descripcion_lista":"Contrato Social","id_candidatura":"903","incluir_en_calculo_porcentaje":true,"nombre_corto":"CS","nro_lista":"903"},{"candidatos_principales":{"CNJ":{"descripcion":"Nicolas Alejandro Soiza Castrellon","dni":"35187532","id_candidatura":"904.416"},"INT":{"descripcion":"Mariano Gaido","dni":"23095238","id_candidatura":"904.415"}},"clase":"Lista","color":null,"descripcion_lista":"Mas Por Neuquen","id_candidatura":"904","incluir_en_calculo_porcentaje":true,"nombre_corto":"MPN","nro_lista":"904"},{"clase":"Blanco","color":null,"descripcion_lista":"Voto en BLANCO","id_candidatura":"BLC","incluir_en_calculo_porcentaje":true,"nombre_corto":"BLC","nro_lista":null},{"clase":"Especial","color":null,"descripcion_lista":"Votos IMPUGNADOS","id_candidatura":"IMP","incluir_en_calculo_porcentaje":false,"nombre_corto":"IMP","nro_lista":null},{"clase":"Especial","color":null,"descripcion_lista":"Votos OBSERVADOS","id_candidatura":"OBS","incluir_en_calculo_porcentaje":false,"nombre_corto":"OBS","nro_lista":null},{"clase":"Especial","color":null,"descripcion_lista":"Votos RECURRIDOS","id_candidatura":"REC","incluir_en_calculo_porcentaje":false,"nombre_corto":"REC","nro_lista":null}],"cargos_habilitados":["INT","CNJ"],"clase_ubicacion":"Localidad","descripcion_ubicacion":"Neuqu\u00e9n","espejos":{"CNJ":[{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Rodrigo Gabriel Emilio Arenas","id_candidatura":"1.21","id_espejo":"22154220","id_foto":"1.21","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Movimiento De Integracion Y Desarrollo","id_candidatura":"1","incluir_en_calculo_porcentaje":true,"nombre_corto":"MDIYD","nro_lista":"1"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Fernanda Belen Christiansen","id_candidatura":"13.492","id_espejo":"34088422","id_foto":"13.492","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Movimiento Al Socialismo","id_candidatura":"13","incluir_en_calculo_porcentaje":true,"nombre_corto":"MAS","nro_lista":"13"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Atilio Edgardo Sguazzini Mazuel","id_candidatura":"151.59","id_espejo":"17643655","id_foto":"151.59","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Movimiento Popular Neuquino","id_candidatura":"151","incluir_en_calculo_porcentaje":true,"nombre_corto":"MPN","nro_lista":"151"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Francisco Pancho Baggio","id_candidatura":"166.135","id_espejo":"22505989","id_foto":"166.135","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Union De Los Neuquinos (Une)","id_candidatura":"166","incluir_en_calculo_porcentaje":true,"nombre_corto":"UDLNU","nro_lista":"166"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Jose Luis Artaza","id_candidatura":"180.78","id_espejo":"17758486","id_foto":"180.78","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Nuevo Compromiso Neuquino","id_candidatura":"180","incluir_en_calculo_porcentaje":true,"nombre_corto":"NCN","nro_lista":"180"},{"clase":"Lista","color":null,"descripcion_lista":"Movimiento Libres Del Sur","id_candidatura":"40","incluir_en_calculo_porcentaje":true,"nombre_corto":"MLDS","nro_lista":"40"},{"clase":"Lista","color":null,"descripcion_lista":"Coalicion Civica - Afirmacion Para Una Republica Igualitaria (Ari)","id_candidatura":"47","incluir_en_calculo_porcentaje":true,"nombre_corto":"CCAPURIA","nro_lista":"47"},{"clase":"Lista","color":null,"descripcion_lista":"Pro-Propuesta Republicana","id_candidatura":"64","incluir_en_calculo_porcentaje":true,"nombre_corto":"PPR","nro_lista":"64"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Alicia Marcelina Clavero","id_candidatura":"23.150","id_espejo":"11339837","id_foto":"23.150","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Union Popular","id_candidatura":"23","incluir_en_calculo_porcentaje":true,"nombre_corto":"UP","nro_lista":"23"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Nadia Judith Marquez","id_candidatura":"5.97","id_espejo":"30081631","id_foto":"5.97","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Partido Democrata Cristiano","id_candidatura":"5","incluir_en_calculo_porcentaje":true,"nombre_corto":"PDC","nro_lista":"5"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Cesar  Parra","id_candidatura":"662.473","id_espejo":"30565683","id_foto":"662.473","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Frente De Izquierda Y De Trabajadores - Unidad","id_candidatura":"662","incluir_en_calculo_porcentaje":true,"nombre_corto":"FDIYDTU","nro_lista":"662"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Ana Ines Servidio","id_candidatura":"663.454","id_espejo":"29159343","id_foto":"663.454","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Frente De Todos Neuquen","id_candidatura":"663","incluir_en_calculo_porcentaje":true,"nombre_corto":"FDTN","nro_lista":"663"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Jorge Omar Salas","id_candidatura":"842.283","id_espejo":"16819927","id_foto":"842.283","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Frente Social Por La Dignidad","id_candidatura":"842","incluir_en_calculo_porcentaje":true,"nombre_corto":"FSPLD","nro_lista":"842"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Camilo Echevarria","id_candidatura":"863.245","id_espejo":"35864549","id_foto":"863.245","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Frente Integrador Neuquino","id_candidatura":"863","incluir_en_calculo_porcentaje":true,"nombre_corto":"FIN","nro_lista":"863"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Lorena Raquel Galvan","id_candidatura":"865.169","id_espejo":"21929179","id_foto":"865.169","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Integracion Neuquina","id_candidatura":"865","incluir_en_calculo_porcentaje":true,"nombre_corto":"IN","nro_lista":"865"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Claudio Alejandro Vasquez","id_candidatura":"867.188","id_espejo":"30878991","id_foto":"867.188","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Movimiento De Unidad Popular","id_candidatura":"867","incluir_en_calculo_porcentaje":true,"nombre_corto":"MDUP","nro_lista":"867"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Adrian Urrutia","id_candidatura":"878.207","id_espejo":"22473940","id_foto":"878.207","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Movimiento Por La Igualdad, La Ciudadania Y La Justicia Social","id_candidatura":"878","incluir_en_calculo_porcentaje":true,"nombre_corto":"MPLILCYLJS","nro_lista":"878"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Mario Leyria","id_candidatura":"882.264","id_espejo":"20381300","id_foto":"882.264","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Frente Nuevo Neuquen","id_candidatura":"882","incluir_en_calculo_porcentaje":true,"nombre_corto":"FNN","nro_lista":"882"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Antonio De Souza","id_candidatura":"883.302","id_espejo":"7616225","id_foto":"883.302","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Iguales","id_candidatura":"883","incluir_en_calculo_porcentaje":true,"nombre_corto":"I","nro_lista":"883"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Julio Osvaldo Ocampo","id_candidatura":"887.226","id_espejo":"16816751","id_foto":"887.226","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Somos Neuquen","id_candidatura":"887","incluir_en_calculo_porcentaje":true,"nombre_corto":"SN","nro_lista":"887"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Pablo Horacio Larroulet","id_candidatura":"898.321","id_espejo":"20843020","id_foto":"898.321","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Causa Comun","id_candidatura":"898","incluir_en_calculo_porcentaje":true,"nombre_corto":"CC","nro_lista":"898"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Hector Horacio Baldo","id_candidatura":"900.435","id_espejo":"16513284","id_foto":"900.435","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Movimiento Para El Desarrollo Neuquino","id_candidatura":"900","incluir_en_calculo_porcentaje":true,"nombre_corto":"MPEDN","nro_lista":"900"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Luisa Soledad Diaz","id_candidatura":"901.378","id_espejo":"31475556","id_foto":"901.378","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Juntos","id_candidatura":"901","incluir_en_calculo_porcentaje":true,"nombre_corto":"J","nro_lista":"901"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Rodolfo Catella","id_candidatura":"902.397","id_espejo":"18755598","id_foto":"902.397","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Juntos Por Neuquen","id_candidatura":"902","incluir_en_calculo_porcentaje":true,"nombre_corto":"JPN","nro_lista":"902"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Claudia Andrea Sepulveda","id_candidatura":"903.340","id_espejo":"26504285","id_foto":"903.340","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Contrato Social","id_candidatura":"903","incluir_en_calculo_porcentaje":true,"nombre_corto":"CS","nro_lista":"903"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Nicolas Alejandro Soiza Castrellon","id_candidatura":"904.416","id_espejo":"35187532","id_foto":"904.416","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Mas Por Neuquen","id_candidatura":"904","incluir_en_calculo_porcentaje":true,"nombre_corto":"MPN","nro_lista":"904"}]}],"INT":[{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Marcelo Gabriel Bermudez","id_candidatura":"1.20","id_espejo":"18395681","id_foto":"1.20","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Movimiento De Integracion Y Desarrollo","id_candidatura":"1","incluir_en_calculo_porcentaje":true,"nombre_corto":"MDIYD","nro_lista":"1"},{"clase":"Lista","color":null,"descripcion_lista":"Nuevo Compromiso Neuquino","id_candidatura":"180","incluir_en_calculo_porcentaje":true,"nombre_corto":"NCN","nro_lista":"180"},{"clase":"Lista","color":null,"descripcion_lista":"Movimiento Libres Del Sur","id_candidatura":"40","incluir_en_calculo_porcentaje":true,"nombre_corto":"MLDS","nro_lista":"40"},{"clase":"Lista","color":null,"descripcion_lista":"Coalicion Civica - Afirmacion Para Una Republica Igualitaria (Ari)","id_candidatura":"47","incluir_en_calculo_porcentaje":true,"nombre_corto":"CCAPURIA","nro_lista":"47"},{"clase":"Lista","color":null,"descripcion_lista":"Pro-Propuesta Republicana","id_candidatura":"64","incluir_en_calculo_porcentaje":true,"nombre_corto":"PPR","nro_lista":"64"},{"clase":"Lista","color":null,"descripcion_lista":"Somos Neuquen","id_candidatura":"887","incluir_en_calculo_porcentaje":true,"nombre_corto":"SN","nro_lista":"887"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Lucas Manuel Ruiz","id_candidatura":"13.491","id_espejo":"30055507","id_foto":"13.491","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Movimiento Al Socialismo","id_candidatura":"13","incluir_en_calculo_porcentaje":true,"nombre_corto":"MAS","nro_lista":"13"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Mariano Gaido","id_candidatura":"151.58","id_espejo":"23095238","id_foto":"151.58","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Movimiento Popular Neuquino","id_candidatura":"151","incluir_en_calculo_porcentaje":true,"nombre_corto":"MPN","nro_lista":"151"},{"clase":"Lista","color":null,"descripcion_lista":"Union De Los Neuquinos (Une)","id_candidatura":"166","incluir_en_calculo_porcentaje":true,"nombre_corto":"UDLNU","nro_lista":"166"},{"clase":"Lista","color":null,"descripcion_lista":"Union Popular","id_candidatura":"23","incluir_en_calculo_porcentaje":true,"nombre_corto":"UP","nro_lista":"23"},{"clase":"Lista","color":null,"descripcion_lista":"Frente Social Por La Dignidad","id_candidatura":"842","incluir_en_calculo_porcentaje":true,"nombre_corto":"FSPLD","nro_lista":"842"},{"clase":"Lista","color":null,"descripcion_lista":"Frente Integrador Neuquino","id_candidatura":"863","incluir_en_calculo_porcentaje":true,"nombre_corto":"FIN","nro_lista":"863"},{"clase":"Lista","color":null,"descripcion_lista":"Integracion Neuquina","id_candidatura":"865","incluir_en_calculo_porcentaje":true,"nombre_corto":"IN","nro_lista":"865"},{"clase":"Lista","color":null,"descripcion_lista":"Movimiento De Unidad Popular","id_candidatura":"867","incluir_en_calculo_porcentaje":true,"nombre_corto":"MDUP","nro_lista":"867"},{"clase":"Lista","color":null,"descripcion_lista":"Movimiento Por La Igualdad, La Ciudadania Y La Justicia Social","id_candidatura":"878","incluir_en_calculo_porcentaje":true,"nombre_corto":"MPLILCYLJS","nro_lista":"878"},{"clase":"Lista","color":null,"descripcion_lista":"Frente Nuevo Neuquen","id_candidatura":"882","incluir_en_calculo_porcentaje":true,"nombre_corto":"FNN","nro_lista":"882"},{"clase":"Lista","color":null,"descripcion_lista":"Iguales","id_candidatura":"883","incluir_en_calculo_porcentaje":true,"nombre_corto":"I","nro_lista":"883"},{"clase":"Lista","color":null,"descripcion_lista":"Causa Comun","id_candidatura":"898","incluir_en_calculo_porcentaje":true,"nombre_corto":"CC","nro_lista":"898"},{"clase":"Lista","color":null,"descripcion_lista":"Movimiento Para El Desarrollo Neuquino","id_candidatura":"900","incluir_en_calculo_porcentaje":true,"nombre_corto":"MPEDN","nro_lista":"900"},{"clase":"Lista","color":null,"descripcion_lista":"Juntos","id_candidatura":"901","incluir_en_calculo_porcentaje":true,"nombre_corto":"J","nro_lista":"901"},{"clase":"Lista","color":null,"descripcion_lista":"Contrato Social","id_candidatura":"903","incluir_en_calculo_porcentaje":true,"nombre_corto":"CS","nro_lista":"903"},{"clase":"Lista","color":null,"descripcion_lista":"Mas Por Neuquen","id_candidatura":"904","incluir_en_calculo_porcentaje":true,"nombre_corto":"MPN","nro_lista":"904"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Jorge Omar Sobisch","id_candidatura":"5.96","id_espejo":"7571737","id_foto":"5.96","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Partido Democrata Cristiano","id_candidatura":"5","incluir_en_calculo_porcentaje":true,"nombre_corto":"PDC","nro_lista":"5"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Angelica Lagunas","id_candidatura":"662.472","id_espejo":"22474492","id_foto":"662.472","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Frente De Izquierda Y De Trabajadores - Unidad","id_candidatura":"662","incluir_en_calculo_porcentaje":true,"nombre_corto":"FDIYDTU","nro_lista":"662"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Marcelo Zu\u00f1iga","id_candidatura":"663.453","id_espejo":"24413491","id_foto":"663.453","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Frente De Todos Neuquen","id_candidatura":"663","incluir_en_calculo_porcentaje":true,"nombre_corto":"FDTN","nro_lista":"663"}]},{"clase":"Espejo","descripcion":"Listas que llevan como candidato\/a a Juan Monteiro","id_candidatura":"902.396","id_espejo":"26398785","id_foto":"902.396","listas":[{"clase":"Lista","color":null,"descripcion_lista":"Juntos Por Neuquen","id_candidatura":"902","incluir_en_calculo_porcentaje":true,"nombre_corto":"JPN","nro_lista":"902"}]}]},"id_ubicacion":"NE","mesas_habilitadas":617,"mesas_habilitadas_por_cargo":{"CNJ":617,"INT":617},"votantes_habilitados":212875,"votantes_habilitados_por_cargo":{"CNJ":212875,"INT":212875}}
+{
+    "candidaturas": [{
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Rodrigo Gabriel Emilio Arenas",
+                    "dni": "22154220",
+                    "id_candidatura": "1.21"
+                },
+                "INT": {
+                    "descripcion": "Marcelo Gabriel Bermudez",
+                    "dni": "18395681",
+                    "id_candidatura": "1.20"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Movimiento De Integracion Y Desarrollo",
+            "id_candidatura": "1",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "MDIYD",
+            "nro_lista": "1"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Fernanda Belen Christiansen",
+                    "dni": "34088422",
+                    "id_candidatura": "13.492"
+                },
+                "INT": {
+                    "descripcion": "Lucas Manuel Ruiz",
+                    "dni": "30055507",
+                    "id_candidatura": "13.491"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Movimiento Al Socialismo",
+            "id_candidatura": "13",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "MAS",
+            "nro_lista": "13"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Atilio Edgardo Sguazzini Mazuel",
+                    "dni": "17643655",
+                    "id_candidatura": "151.59"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "151.58"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Movimiento Popular Neuquino",
+            "id_candidatura": "151",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "MPN",
+            "nro_lista": "151"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Francisco Pancho Baggio",
+                    "dni": "22505989",
+                    "id_candidatura": "166.135"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "166.134"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Union De Los Neuquinos (Une)",
+            "id_candidatura": "166",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "UDLNU",
+            "nro_lista": "166"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Jose Luis Artaza",
+                    "dni": "17758486",
+                    "id_candidatura": "180.78"
+                },
+                "INT": {
+                    "descripcion": "Marcelo Gabriel Bermudez",
+                    "dni": "18395681",
+                    "id_candidatura": "180.77"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Nuevo Compromiso Neuquino",
+            "id_candidatura": "180",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "NCN",
+            "nro_lista": "180"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Alicia Marcelina Clavero",
+                    "dni": "11339837",
+                    "id_candidatura": "23.150"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "23.149"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Union Popular",
+            "id_candidatura": "23",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "UP",
+            "nro_lista": "23"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Jose Luis Artaza",
+                    "dni": "17758486",
+                    "id_candidatura": "40.40"
+                },
+                "INT": {
+                    "descripcion": "Marcelo Gabriel Bermudez",
+                    "dni": "18395681",
+                    "id_candidatura": "40.39"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Movimiento Libres Del Sur",
+            "id_candidatura": "40",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "MLDS",
+            "nro_lista": "40"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Jose Luis Artaza",
+                    "dni": "17758486",
+                    "id_candidatura": "47.2"
+                },
+                "INT": {
+                    "descripcion": "Marcelo Gabriel Bermudez",
+                    "dni": "18395681",
+                    "id_candidatura": "47.1"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Coalicion Civica - Afirmacion Para Una Republica Igualitaria (Ari)",
+            "id_candidatura": "47",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "CCAPURIA",
+            "nro_lista": "47"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Nadia Judith Marquez",
+                    "dni": "30081631",
+                    "id_candidatura": "5.97"
+                },
+                "INT": {
+                    "descripcion": "Jorge Omar Sobisch",
+                    "dni": "7571737",
+                    "id_candidatura": "5.96"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Partido Democrata Cristiano",
+            "id_candidatura": "5",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "PDC",
+            "nro_lista": "5"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Jose Luis Artaza",
+                    "dni": "17758486",
+                    "id_candidatura": "64.116"
+                },
+                "INT": {
+                    "descripcion": "Marcelo Gabriel Bermudez",
+                    "dni": "18395681",
+                    "id_candidatura": "64.115"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Pro-Propuesta Republicana",
+            "id_candidatura": "64",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "PPR",
+            "nro_lista": "64"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Cesar  Parra",
+                    "dni": "30565683",
+                    "id_candidatura": "662.473"
+                },
+                "INT": {
+                    "descripcion": "Angelica Lagunas",
+                    "dni": "22474492",
+                    "id_candidatura": "662.472"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Frente De Izquierda Y De Trabajadores - Unidad",
+            "id_candidatura": "662",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "FDIYDTU",
+            "nro_lista": "662"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Ana Ines Servidio",
+                    "dni": "29159343",
+                    "id_candidatura": "663.454"
+                },
+                "INT": {
+                    "descripcion": "Marcelo Zu\u00f1iga",
+                    "dni": "24413491",
+                    "id_candidatura": "663.453"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Frente De Todos Neuquen",
+            "id_candidatura": "663",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "FDTN",
+            "nro_lista": "663"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Jorge Omar Salas",
+                    "dni": "16819927",
+                    "id_candidatura": "842.283"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "842.282"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Frente Social Por La Dignidad",
+            "id_candidatura": "842",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "FSPLD",
+            "nro_lista": "842"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Camilo Echevarria",
+                    "dni": "35864549",
+                    "id_candidatura": "863.245"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "863.244"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Frente Integrador Neuquino",
+            "id_candidatura": "863",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "FIN",
+            "nro_lista": "863"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Lorena Raquel Galvan",
+                    "dni": "21929179",
+                    "id_candidatura": "865.169"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "865.168"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Integracion Neuquina",
+            "id_candidatura": "865",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "IN",
+            "nro_lista": "865"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Claudio Alejandro Vasquez",
+                    "dni": "30878991",
+                    "id_candidatura": "867.188"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "867.187"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Movimiento De Unidad Popular",
+            "id_candidatura": "867",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "MDUP",
+            "nro_lista": "867"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Adrian Urrutia",
+                    "dni": "22473940",
+                    "id_candidatura": "878.207"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "878.206"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Movimiento Por La Igualdad, La Ciudadania Y La Justicia Social",
+            "id_candidatura": "878",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "MPLILCYLJS",
+            "nro_lista": "878"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Mario Leyria",
+                    "dni": "20381300",
+                    "id_candidatura": "882.264"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "882.263"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Frente Nuevo Neuquen",
+            "id_candidatura": "882",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "FNN",
+            "nro_lista": "882"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Antonio De Souza",
+                    "dni": "7616225",
+                    "id_candidatura": "883.302"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "883.301"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Iguales",
+            "id_candidatura": "883",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "I",
+            "nro_lista": "883"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Julio Osvaldo Ocampo",
+                    "dni": "16816751",
+                    "id_candidatura": "887.226"
+                },
+                "INT": {
+                    "descripcion": "Marcelo Gabriel Bermudez",
+                    "dni": "18395681",
+                    "id_candidatura": "887.225"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Somos Neuquen",
+            "id_candidatura": "887",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "SN",
+            "nro_lista": "887"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Pablo Horacio Larroulet",
+                    "dni": "20843020",
+                    "id_candidatura": "898.321"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "898.320"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Causa Comun",
+            "id_candidatura": "898",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "CC",
+            "nro_lista": "898"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Hector Horacio Baldo",
+                    "dni": "16513284",
+                    "id_candidatura": "900.435"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "900.434"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Movimiento Para El Desarrollo Neuquino",
+            "id_candidatura": "900",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "MPEDN",
+            "nro_lista": "900"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Luisa Soledad Diaz",
+                    "dni": "31475556",
+                    "id_candidatura": "901.378"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "901.377"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Juntos",
+            "id_candidatura": "901",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "J",
+            "nro_lista": "901"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Rodolfo Catella",
+                    "dni": "18755598",
+                    "id_candidatura": "902.397"
+                },
+                "INT": {
+                    "descripcion": "Juan Monteiro",
+                    "dni": "26398785",
+                    "id_candidatura": "902.396"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Juntos Por Neuquen",
+            "id_candidatura": "902",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "JPN",
+            "nro_lista": "902"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Claudia Andrea Sepulveda",
+                    "dni": "26504285",
+                    "id_candidatura": "903.340"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "903.339"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Contrato Social",
+            "id_candidatura": "903",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "CS",
+            "nro_lista": "903"
+        }, {
+            "candidatos_principales": {
+                "CNJ": {
+                    "descripcion": "Nicolas Alejandro Soiza Castrellon",
+                    "dni": "35187532",
+                    "id_candidatura": "904.416"
+                },
+                "INT": {
+                    "descripcion": "Mariano Gaido",
+                    "dni": "23095238",
+                    "id_candidatura": "904.415"
+                }
+            },
+            "clase": "Lista",
+            "color": null,
+            "descripcion_lista": "Mas Por Neuquen",
+            "id_candidatura": "904",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "MPN",
+            "nro_lista": "904"
+        }, {
+            "clase": "Blanco",
+            "color": null,
+            "descripcion_lista": "Voto en BLANCO",
+            "id_candidatura": "BLC",
+            "incluir_en_calculo_porcentaje": true,
+            "nombre_corto": "BLC",
+            "nro_lista": null
+        }, {
+            "clase": "Especial",
+            "color": null,
+            "descripcion_lista": "Votos IMPUGNADOS",
+            "id_candidatura": "IMP",
+            "incluir_en_calculo_porcentaje": false,
+            "nombre_corto": "IMP",
+            "nro_lista": null
+        }, {
+            "clase": "Especial",
+            "color": null,
+            "descripcion_lista": "Votos OBSERVADOS",
+            "id_candidatura": "OBS",
+            "incluir_en_calculo_porcentaje": false,
+            "nombre_corto": "OBS",
+            "nro_lista": null
+        }, {
+            "clase": "Especial",
+            "color": null,
+            "descripcion_lista": "Votos RECURRIDOS",
+            "id_candidatura": "REC",
+            "incluir_en_calculo_porcentaje": false,
+            "nombre_corto": "REC",
+            "nro_lista": null
+        }],
+    "cargos_habilitados": ["INT", "CNJ"],
+    "clase_ubicacion": "Localidad",
+    "descripcion_ubicacion": "Neuqu\u00e9n",
+    "espejos": {
+        "CNJ": [{
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Rodrigo Gabriel Emilio Arenas",
+                "id_candidatura": "1.21",
+                "id_espejo": "22154220",
+                "id_foto": "1.21",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Movimiento De Integracion Y Desarrollo",
+                        "id_candidatura": "1",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MDIYD",
+                        "nro_lista": "1"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Fernanda Belen Christiansen",
+                "id_candidatura": "13.492",
+                "id_espejo": "34088422",
+                "id_foto": "13.492",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Movimiento Al Socialismo",
+                        "id_candidatura": "13",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MAS",
+                        "nro_lista": "13"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Atilio Edgardo Sguazzini Mazuel",
+                "id_candidatura": "151.59",
+                "id_espejo": "17643655",
+                "id_foto": "151.59",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Movimiento Popular Neuquino",
+                        "id_candidatura": "151",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MPN",
+                        "nro_lista": "151"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Francisco Pancho Baggio",
+                "id_candidatura": "166.135",
+                "id_espejo": "22505989",
+                "id_foto": "166.135",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Union De Los Neuquinos (Une)",
+                        "id_candidatura": "166",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "UDLNU",
+                        "nro_lista": "166"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Jose Luis Artaza",
+                "id_candidatura": "180.78",
+                "id_espejo": "17758486",
+                "id_foto": "180.78",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Nuevo Compromiso Neuquino",
+                        "id_candidatura": "180",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "NCN",
+                        "nro_lista": "180"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Movimiento Libres Del Sur",
+                        "id_candidatura": "40",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MLDS",
+                        "nro_lista": "40"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Coalicion Civica - Afirmacion Para Una Republica Igualitaria (Ari)",
+                        "id_candidatura": "47",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "CCAPURIA",
+                        "nro_lista": "47"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Pro-Propuesta Republicana",
+                        "id_candidatura": "64",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "PPR",
+                        "nro_lista": "64"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Alicia Marcelina Clavero",
+                "id_candidatura": "23.150",
+                "id_espejo": "11339837",
+                "id_foto": "23.150",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Union Popular",
+                        "id_candidatura": "23",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "UP",
+                        "nro_lista": "23"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Nadia Judith Marquez",
+                "id_candidatura": "5.97",
+                "id_espejo": "30081631",
+                "id_foto": "5.97",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Partido Democrata Cristiano",
+                        "id_candidatura": "5",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "PDC",
+                        "nro_lista": "5"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Cesar  Parra",
+                "id_candidatura": "662.473",
+                "id_espejo": "30565683",
+                "id_foto": "662.473",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Frente De Izquierda Y De Trabajadores - Unidad",
+                        "id_candidatura": "662",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "FDIYDTU",
+                        "nro_lista": "662"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Ana Ines Servidio",
+                "id_candidatura": "663.454",
+                "id_espejo": "29159343",
+                "id_foto": "663.454",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Frente De Todos Neuquen",
+                        "id_candidatura": "663",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "FDTN",
+                        "nro_lista": "663"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Jorge Omar Salas",
+                "id_candidatura": "842.283",
+                "id_espejo": "16819927",
+                "id_foto": "842.283",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Frente Social Por La Dignidad",
+                        "id_candidatura": "842",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "FSPLD",
+                        "nro_lista": "842"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Camilo Echevarria",
+                "id_candidatura": "863.245",
+                "id_espejo": "35864549",
+                "id_foto": "863.245",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Frente Integrador Neuquino",
+                        "id_candidatura": "863",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "FIN",
+                        "nro_lista": "863"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Lorena Raquel Galvan",
+                "id_candidatura": "865.169",
+                "id_espejo": "21929179",
+                "id_foto": "865.169",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Integracion Neuquina",
+                        "id_candidatura": "865",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "IN",
+                        "nro_lista": "865"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Claudio Alejandro Vasquez",
+                "id_candidatura": "867.188",
+                "id_espejo": "30878991",
+                "id_foto": "867.188",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Movimiento De Unidad Popular",
+                        "id_candidatura": "867",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MDUP",
+                        "nro_lista": "867"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Adrian Urrutia",
+                "id_candidatura": "878.207",
+                "id_espejo": "22473940",
+                "id_foto": "878.207",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Movimiento Por La Igualdad, La Ciudadania Y La Justicia Social",
+                        "id_candidatura": "878",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MPLILCYLJS",
+                        "nro_lista": "878"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Mario Leyria",
+                "id_candidatura": "882.264",
+                "id_espejo": "20381300",
+                "id_foto": "882.264",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Frente Nuevo Neuquen",
+                        "id_candidatura": "882",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "FNN",
+                        "nro_lista": "882"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Antonio De Souza",
+                "id_candidatura": "883.302",
+                "id_espejo": "7616225",
+                "id_foto": "883.302",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Iguales",
+                        "id_candidatura": "883",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "I",
+                        "nro_lista": "883"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Julio Osvaldo Ocampo",
+                "id_candidatura": "887.226",
+                "id_espejo": "16816751",
+                "id_foto": "887.226",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Somos Neuquen",
+                        "id_candidatura": "887",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "SN",
+                        "nro_lista": "887"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Pablo Horacio Larroulet",
+                "id_candidatura": "898.321",
+                "id_espejo": "20843020",
+                "id_foto": "898.321",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Causa Comun",
+                        "id_candidatura": "898",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "CC",
+                        "nro_lista": "898"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Hector Horacio Baldo",
+                "id_candidatura": "900.435",
+                "id_espejo": "16513284",
+                "id_foto": "900.435",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Movimiento Para El Desarrollo Neuquino",
+                        "id_candidatura": "900",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MPEDN",
+                        "nro_lista": "900"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Luisa Soledad Diaz",
+                "id_candidatura": "901.378",
+                "id_espejo": "31475556",
+                "id_foto": "901.378",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Juntos",
+                        "id_candidatura": "901",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "J",
+                        "nro_lista": "901"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Rodolfo Catella",
+                "id_candidatura": "902.397",
+                "id_espejo": "18755598",
+                "id_foto": "902.397",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Juntos Por Neuquen",
+                        "id_candidatura": "902",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "JPN",
+                        "nro_lista": "902"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Claudia Andrea Sepulveda",
+                "id_candidatura": "903.340",
+                "id_espejo": "26504285",
+                "id_foto": "903.340",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Contrato Social",
+                        "id_candidatura": "903",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "CS",
+                        "nro_lista": "903"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Nicolas Alejandro Soiza Castrellon",
+                "id_candidatura": "904.416",
+                "id_espejo": "35187532",
+                "id_foto": "904.416",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Mas Por Neuquen",
+                        "id_candidatura": "904",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MPN",
+                        "nro_lista": "904"
+                    }]
+            }],
+        "INT": [{
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Marcelo Gabriel Bermudez",
+                "id_candidatura": "1.20",
+                "id_espejo": "18395681",
+                "id_foto": "1.20",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Movimiento De Integracion Y Desarrollo",
+                        "id_candidatura": "1",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MDIYD",
+                        "nro_lista": "1"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Nuevo Compromiso Neuquino",
+                        "id_candidatura": "180",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "NCN",
+                        "nro_lista": "180"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Movimiento Libres Del Sur",
+                        "id_candidatura": "40",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MLDS",
+                        "nro_lista": "40"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Coalicion Civica - Afirmacion Para Una Republica Igualitaria (Ari)",
+                        "id_candidatura": "47",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "CCAPURIA",
+                        "nro_lista": "47"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Pro-Propuesta Republicana",
+                        "id_candidatura": "64",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "PPR",
+                        "nro_lista": "64"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Somos Neuquen",
+                        "id_candidatura": "887",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "SN",
+                        "nro_lista": "887"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Lucas Manuel Ruiz",
+                "id_candidatura": "13.491",
+                "id_espejo": "30055507",
+                "id_foto": "13.491",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Movimiento Al Socialismo",
+                        "id_candidatura": "13",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MAS",
+                        "nro_lista": "13"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Mariano Gaido",
+                "id_candidatura": "151.58",
+                "id_espejo": "23095238",
+                "id_foto": "151.58",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Movimiento Popular Neuquino",
+                        "id_candidatura": "151",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MPN",
+                        "nro_lista": "151"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Union De Los Neuquinos (Une)",
+                        "id_candidatura": "166",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "UDLNU",
+                        "nro_lista": "166"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Union Popular",
+                        "id_candidatura": "23",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "UP",
+                        "nro_lista": "23"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Frente Social Por La Dignidad",
+                        "id_candidatura": "842",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "FSPLD",
+                        "nro_lista": "842"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Frente Integrador Neuquino",
+                        "id_candidatura": "863",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "FIN",
+                        "nro_lista": "863"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Integracion Neuquina",
+                        "id_candidatura": "865",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "IN",
+                        "nro_lista": "865"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Movimiento De Unidad Popular",
+                        "id_candidatura": "867",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MDUP",
+                        "nro_lista": "867"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Movimiento Por La Igualdad, La Ciudadania Y La Justicia Social",
+                        "id_candidatura": "878",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MPLILCYLJS",
+                        "nro_lista": "878"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Frente Nuevo Neuquen",
+                        "id_candidatura": "882",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "FNN",
+                        "nro_lista": "882"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Iguales",
+                        "id_candidatura": "883",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "I",
+                        "nro_lista": "883"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Causa Comun",
+                        "id_candidatura": "898",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "CC",
+                        "nro_lista": "898"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Movimiento Para El Desarrollo Neuquino",
+                        "id_candidatura": "900",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MPEDN",
+                        "nro_lista": "900"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Juntos",
+                        "id_candidatura": "901",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "J",
+                        "nro_lista": "901"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Contrato Social",
+                        "id_candidatura": "903",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "CS",
+                        "nro_lista": "903"
+                    }, {
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Mas Por Neuquen",
+                        "id_candidatura": "904",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "MPN",
+                        "nro_lista": "904"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Jorge Omar Sobisch",
+                "id_candidatura": "5.96",
+                "id_espejo": "7571737",
+                "id_foto": "5.96",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Partido Democrata Cristiano",
+                        "id_candidatura": "5",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "PDC",
+                        "nro_lista": "5"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Angelica Lagunas",
+                "id_candidatura": "662.472",
+                "id_espejo": "22474492",
+                "id_foto": "662.472",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Frente De Izquierda Y De Trabajadores - Unidad",
+                        "id_candidatura": "662",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "FDIYDTU",
+                        "nro_lista": "662"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Marcelo Zu\u00f1iga",
+                "id_candidatura": "663.453",
+                "id_espejo": "24413491",
+                "id_foto": "663.453",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Frente De Todos Neuquen",
+                        "id_candidatura": "663",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "FDTN",
+                        "nro_lista": "663"
+                    }]
+            }, {
+                "clase": "Espejo",
+                "descripcion": "Listas que llevan como candidato\/a a Juan Monteiro",
+                "id_candidatura": "902.396",
+                "id_espejo": "26398785",
+                "id_foto": "902.396",
+                "listas": [{
+                        "clase": "Lista",
+                        "color": null,
+                        "descripcion_lista": "Juntos Por Neuquen",
+                        "id_candidatura": "902",
+                        "incluir_en_calculo_porcentaje": true,
+                        "nombre_corto": "JPN",
+                        "nro_lista": "902"
+                    }]
+            }]
+    },
+    "id_ubicacion": "NE",
+    "mesas_habilitadas": 617,
+    "mesas_habilitadas_por_cargo": {
+        "CNJ": 617,
+        "INT": 617
+    },
+    "votantes_habilitados": 212875,
+    "votantes_habilitados_por_cargo": {
+        "CNJ": 212875,
+        "INT": 212875
+    }
+}
