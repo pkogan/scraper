@@ -1,0 +1,148 @@
+body {
+    background-color: #eee;
+    padding-bottom: 40px;
+}
+
+hr {
+    border-top-color: #898989;
+}
+
+#header {
+    height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 10px;
+}
+
+#header {
+    background: url("../img/logo-vot-ar.png") #E2E2E2 no-repeat 15px center;
+}
+
+#header .credit {
+    margin: 0px;
+    line-height: 40px;
+    float: right;
+    color: #999;
+}
+
+
+.form-signin {
+    max-width: 500px;
+    margin: 0 auto;
+}
+.form-signin .form-control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+.form-signin textarea {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.btn-main {
+    width: 47%;
+}
+
+#limpiar{
+    margin-top: 0px;
+    margin-left: 3px;
+}
+#mensaje {
+    margin-top: 60px;
+    display: none;
+}
+
+#log-content {
+    margin-top: 1em;
+}
+
+#raw {
+    margin-bottom: 15px;
+}
+
+.table-responsive>.table-bordered>tbody>tr>td:last-child {
+    border-right: 1px solid #ddd;
+}
+
+textarea.form-control[readonly] {
+    background-color: #fff;
+}
+
+.clase_alianza td, .clase_partido td{
+    font-weight: bold;
+}
+
+.clase_blanco td:first-child, .clase_especial td:first-child{
+    font-style:italic;
+}
+
+.clase_total{
+    font-weight: bold;
+}
+
+tr:nth-child(odd) {
+	background: #FFF
+}
+
+table td.strikethrough {
+    background: linear-gradient(to bottom right,  transparent calc(50% - 1px), #999, transparent calc(50% + 1px));
+}
+
+#tabla-recuento {
+    width: auto;
+    max-width: 100%;
+    overflow: auto;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+#share {
+    cursor: pointer;
+}
+
+#gray-overlay {
+    z-index: 999;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    opacity: .5;
+}
+
+#div_qr-video {
+    margin-top: 1em;
+    display: none;
+  }
+
+.camara_activada {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.camara_desactivada {
+  display: none;
+}
+
+#div_qr-video video {
+  width: 100%;
+}
+
+#div_qr-video button {
+  margin: 0.5rem auto;
+}
+  

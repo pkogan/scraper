@@ -1,0 +1,451 @@
+[
+ {
+  "CNJ": 889,
+  "INT": 1443,
+  "codigo": "151M",
+  "id_lista": "151",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 1,
+  "DIP": 1357,
+  "GOB": 1388,
+  "codigo": "151P",
+  "id_lista": "151",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 897,
+  "INT": 1451,
+  "codigo": "166M",
+  "id_lista": "166",
+  "segmento": "municipal"
+ },
+ {
+  "DIP": 1358,
+  "GOB": 1389,
+  "codigo": "166P",
+  "id_lista": "166",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 926,
+  "INT": 1483,
+  "codigo": "180M",
+  "id_lista": "180",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 2,
+  "DIP": 1359,
+  "GOB": 1390,
+  "codigo": "180P",
+  "id_lista": "180",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 947,
+  "INT": 1504,
+  "codigo": "190M",
+  "id_lista": "190",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 3,
+  "DIP": 1360,
+  "GOB": 1391,
+  "codigo": "190P",
+  "id_lista": "190",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 968,
+  "INT": 1525,
+  "codigo": "191M",
+  "id_lista": "191",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 4,
+  "DIP": 1361,
+  "GOB": 1392,
+  "codigo": "191P",
+  "id_lista": "191",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 988,
+  "INT": 1545,
+  "codigo": "192M",
+  "id_lista": "192",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 5,
+  "DIP": 1362,
+  "GOB": 1393,
+  "codigo": "192P",
+  "id_lista": "192",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1008,
+  "INT": 1565,
+  "codigo": "193M",
+  "id_lista": "193",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 6,
+  "DIP": 1363,
+  "GOB": 1394,
+  "codigo": "193P",
+  "id_lista": "193",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 871,
+  "INT": 1425,
+  "codigo": "1M",
+  "id_lista": "1",
+  "segmento": "municipal"
+ },
+ {
+  "DIP": 1356,
+  "GOB": 1387,
+  "codigo": "1P",
+  "id_lista": "1",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1026,
+  "INT": 1582,
+  "codigo": "23M",
+  "id_lista": "23",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 7,
+  "DIP": 1364,
+  "GOB": 1395,
+  "codigo": "23P",
+  "id_lista": "23",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1038,
+  "INT": 1594,
+  "codigo": "40M",
+  "id_lista": "40",
+  "segmento": "municipal"
+ },
+ {
+  "DIP": 1365,
+  "GOB": 1396,
+  "codigo": "40P",
+  "id_lista": "40",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1056,
+  "INT": 1612,
+  "codigo": "41M",
+  "id_lista": "41",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 8,
+  "DIP": 1366,
+  "GOB": 1397,
+  "codigo": "41P",
+  "id_lista": "41",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1070,
+  "INT": 1627,
+  "codigo": "50M",
+  "id_lista": "50",
+  "segmento": "municipal"
+ },
+ {
+  "DIP": 1367,
+  "GOB": 1398,
+  "codigo": "50P",
+  "id_lista": "50",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1090,
+  "INT": 1647,
+  "codigo": "64M",
+  "id_lista": "64",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 9,
+  "DIP": 1368,
+  "GOB": 1399,
+  "codigo": "64P",
+  "id_lista": "64",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1118,
+  "INT": 1675,
+  "codigo": "673M",
+  "id_lista": "673",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 10,
+  "DIP": 1370,
+  "GOB": 1401,
+  "codigo": "673P",
+  "id_lista": "673",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1121,
+  "INT": 1679,
+  "codigo": "674M",
+  "id_lista": "674",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 11,
+  "DIP": 1371,
+  "GOB": 1402,
+  "codigo": "674P",
+  "id_lista": "674",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1132,
+  "INT": 1690,
+  "codigo": "675M",
+  "id_lista": "675",
+  "segmento": "municipal"
+ },
+ {
+  "DIP": 1372,
+  "GOB": 1403,
+  "codigo": "675P",
+  "id_lista": "675",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1100,
+  "INT": 1657,
+  "codigo": "67M",
+  "id_lista": "67",
+  "segmento": "municipal"
+ },
+ {
+  "DIP": 1369,
+  "GOB": 1400,
+  "codigo": "67P",
+  "id_lista": "67",
+  "segmento": "provincial"
+ },
+ {
+  "DIP": 1373,
+  "GOB": 1404,
+  "codigo": "72P",
+  "id_lista": "72",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1144,
+  "INT": 1701,
+  "codigo": "74M",
+  "id_lista": "74",
+  "segmento": "municipal"
+ },
+ {
+  "DIP": 1374,
+  "GOB": 1405,
+  "codigo": "74P",
+  "id_lista": "74",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1162,
+  "INT": 1719,
+  "codigo": "842M",
+  "id_lista": "842",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 12,
+  "DIP": 1375,
+  "GOB": 1406,
+  "codigo": "842P",
+  "id_lista": "842",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1163,
+  "INT": 1720,
+  "codigo": "858M",
+  "id_lista": "858",
+  "segmento": "municipal"
+ },
+ {
+  "CNJ": 1174,
+  "INT": 1731,
+  "codigo": "863M",
+  "id_lista": "863",
+  "segmento": "municipal"
+ },
+ {
+  "DIP": 1376,
+  "GOB": 1407,
+  "codigo": "863P",
+  "id_lista": "863",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1175,
+  "INT": 1732,
+  "codigo": "865M",
+  "id_lista": "865",
+  "segmento": "municipal"
+ },
+ {
+  "CNJ": 1176,
+  "INT": 1733,
+  "codigo": "867M",
+  "id_lista": "867",
+  "segmento": "municipal"
+ },
+ {
+  "CNJ": 1196,
+  "INT": 1754,
+  "codigo": "882M",
+  "id_lista": "882",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 13,
+  "DIP": 1377,
+  "GOB": 1408,
+  "codigo": "882P",
+  "id_lista": "882",
+  "segmento": "provincial"
+ },
+ {
+  "DIP": 1378,
+  "GOB": 1409,
+  "codigo": "883P",
+  "id_lista": "883",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1217,
+  "INT": 1775,
+  "codigo": "887M",
+  "id_lista": "887",
+  "segmento": "municipal"
+ },
+ {
+  "CNJ": 1218,
+  "INT": 1776,
+  "codigo": "900M",
+  "id_lista": "900",
+  "segmento": "municipal"
+ },
+ {
+  "CNJ": 1237,
+  "INT": 1795,
+  "codigo": "901M",
+  "id_lista": "901",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 14,
+  "DIP": 1379,
+  "GOB": 1410,
+  "codigo": "901P",
+  "id_lista": "901",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1238,
+  "INT": 1796,
+  "codigo": "903M",
+  "id_lista": "903",
+  "segmento": "municipal"
+ },
+ {
+  "CNJ": 1239,
+  "INT": 1797,
+  "codigo": "905M",
+  "id_lista": "905",
+  "segmento": "municipal"
+ },
+ {
+  "CNJ": 1240,
+  "INT": 1798,
+  "codigo": "907M",
+  "id_lista": "907",
+  "segmento": "municipal"
+ },
+ {
+  "CNJ": 1249,
+  "INT": 1807,
+  "codigo": "908M",
+  "id_lista": "908",
+  "segmento": "municipal"
+ },
+ {
+  "DIP": 1380,
+  "GOB": 1411,
+  "codigo": "908P",
+  "id_lista": "908",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1257,
+  "INT": 1815,
+  "codigo": "914M",
+  "id_lista": "914",
+  "segmento": "municipal"
+ },
+ {
+  "DIP": 1381,
+  "GOB": 1412,
+  "codigo": "914P",
+  "id_lista": "914",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1269,
+  "INT": 1827,
+  "codigo": "915M",
+  "id_lista": "915",
+  "segmento": "municipal"
+ },
+ {
+  "DIP": 1382,
+  "GOB": 1413,
+  "codigo": "915P",
+  "id_lista": "915",
+  "segmento": "provincial"
+ },
+ {
+  "CNJ": 1273,
+  "INT": 1831,
+  "codigo": "BLCM",
+  "id_lista": "BLC",
+  "segmento": "municipal"
+ },
+ {
+  "C01": 15,
+  "DIP": 1383,
+  "GOB": 1414,
+  "codigo": "BLCP",
+  "id_lista": "BLC",
+  "segmento": "provincial"
+ }
+]

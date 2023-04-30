@@ -1,0 +1,67 @@
+[
+ {
+  "adhiere": null,
+  "asistida": "Consejeros Escolares",
+  "cargo_ejecutivo": false,
+  "codigo": "C01",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Consejeros\/as Escolares",
+  "posicion": 7,
+  "preferente": false,
+  "segmento": "provincial"
+ },
+ {
+  "adhiere": null,
+  "asistida": "Concejales",
+  "cargo_ejecutivo": false,
+  "codigo": "CNJ",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Concejales\/as",
+  "posicion": 4,
+  "preferente": false,
+  "segmento": "municipal"
+ },
+ {
+  "adhiere": null,
+  "asistida": "Diputados",
+  "cargo_ejecutivo": false,
+  "codigo": "DIP",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Diputados\/as",
+  "posicion": 2,
+  "preferente": false,
+  "segmento": "provincial"
+ },
+ {
+  "adhiere": null,
+  "asistida": "Gobernador",
+  "cargo_ejecutivo": true,
+  "codigo": "GOB",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Gobernador\/a y Vice",
+  "posicion": 1,
+  "preferente": false,
+  "segmento": "provincial"
+ },
+ {
+  "adhiere": null,
+  "asistida": "Intendente",
+  "cargo_ejecutivo": true,
+  "codigo": "INT",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Intendente\/a",
+  "posicion": 3,
+  "preferente": false,
+  "segmento": "municipal"
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "adhiere": null,
+  "asistida": "Diputados",
+  "cargo_ejecutivo": false,
+  "codigo": "DIP",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Diputados\/as",
+  "posicion": 2,
+  "preferente": false
+ },
+ {
+  "adhiere": null,
+  "asistida": "Gobernador",
+  "cargo_ejecutivo": true,
+  "codigo": "GOB",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Gobernador\/a y Vice",
+  "posicion": 1,
+  "preferente": false
+ },
+ {
+  "adhiere": null,
+  "asistida": "Presidente de Comisi\u00f3n de Fomento",
+  "cargo_ejecutivo": true,
+  "codigo": "PCF",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Pres. Comisi\u00f3n de Fomento",
+  "posicion": 6,
+  "preferente": false
+ }
+]

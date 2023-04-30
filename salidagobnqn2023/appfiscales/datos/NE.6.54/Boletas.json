@@ -1,0 +1,216 @@
+[
+ {
+  "DIP": 1356,
+  "GOB": 1387,
+  "PCF": 1919,
+  "agrupacion_municipal": false,
+  "codigo": "1",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1357,
+  "GOB": 1388,
+  "PCF": 1939,
+  "agrupacion_municipal": false,
+  "codigo": "151",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1358,
+  "GOB": 1389,
+  "PCF": 1970,
+  "agrupacion_municipal": false,
+  "codigo": "166",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1359,
+  "GOB": 1390,
+  "PCF": 1980,
+  "agrupacion_municipal": false,
+  "codigo": "180",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1360,
+  "GOB": 1391,
+  "PCF": 2001,
+  "agrupacion_municipal": false,
+  "codigo": "190",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1361,
+  "GOB": 1392,
+  "PCF": 2022,
+  "agrupacion_municipal": false,
+  "codigo": "191",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1362,
+  "GOB": 1393,
+  "agrupacion_municipal": false,
+  "codigo": "192",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1363,
+  "GOB": 1394,
+  "PCF": 2059,
+  "agrupacion_municipal": false,
+  "codigo": "193",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1364,
+  "GOB": 1395,
+  "PCF": 2080,
+  "agrupacion_municipal": false,
+  "codigo": "23",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1365,
+  "GOB": 1396,
+  "agrupacion_municipal": false,
+  "codigo": "40",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1366,
+  "GOB": 1397,
+  "PCF": 2100,
+  "agrupacion_municipal": false,
+  "codigo": "41",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1367,
+  "GOB": 1398,
+  "agrupacion_municipal": false,
+  "codigo": "50",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1368,
+  "GOB": 1399,
+  "PCF": 2127,
+  "agrupacion_municipal": false,
+  "codigo": "64",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1369,
+  "GOB": 1400,
+  "agrupacion_municipal": false,
+  "codigo": "67",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1370,
+  "GOB": 1401,
+  "agrupacion_municipal": false,
+  "codigo": "673",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1371,
+  "GOB": 1402,
+  "agrupacion_municipal": false,
+  "codigo": "674",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1372,
+  "GOB": 1403,
+  "agrupacion_municipal": false,
+  "codigo": "675",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1373,
+  "GOB": 1404,
+  "agrupacion_municipal": false,
+  "codigo": "72",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1374,
+  "GOB": 1405,
+  "agrupacion_municipal": false,
+  "codigo": "74",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1375,
+  "GOB": 1406,
+  "PCF": 2157,
+  "agrupacion_municipal": false,
+  "codigo": "842",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1376,
+  "GOB": 1407,
+  "PCF": 2178,
+  "agrupacion_municipal": false,
+  "codigo": "863",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1377,
+  "GOB": 1408,
+  "PCF": 2198,
+  "agrupacion_municipal": false,
+  "codigo": "882",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1378,
+  "GOB": 1409,
+  "PCF": 2218,
+  "agrupacion_municipal": false,
+  "codigo": "883",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1379,
+  "GOB": 1410,
+  "PCF": 2238,
+  "agrupacion_municipal": false,
+  "codigo": "901",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1380,
+  "GOB": 1411,
+  "agrupacion_municipal": false,
+  "codigo": "908",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1381,
+  "GOB": 1412,
+  "PCF": 2259,
+  "agrupacion_municipal": false,
+  "codigo": "914",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1382,
+  "GOB": 1413,
+  "PCF": 2279,
+  "agrupacion_municipal": false,
+  "codigo": "915",
+  "lista_completa": true
+ },
+ {
+  "DIP": 1383,
+  "GOB": 1414,
+  "PCF": 2309,
+  "agrupacion_municipal": false,
+  "codigo": "BLC",
+  "lista_completa": true
+ }
+]

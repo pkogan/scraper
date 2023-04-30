@@ -1,0 +1,206 @@
+
+<html>
+  <head>
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen" />
+    <link href="css/fiscales.css" rel="stylesheet" media="screen" />
+    <script
+      src="js/lodash.min.js"
+      type="text/javascript"
+      charset="utf-8"
+    ></script>
+
+    <script
+      src="js/chancleta.js"
+      type="text/javascript"
+      charset="utf-8"
+    ></script>
+  </head>
+  <body>
+    <div id="header">
+      <img src="https://appfiscales.neuquen.datosoficiales.com/img/eleccion.png" style="display:none"/>
+    </div>
+
+    <div class="container">
+      <div id="gray-overlay" style="display: none"></div>
+
+      <div role="tabpanel">
+        <ul class="nav nav-pills" role="tablist">
+          <li id="btn-home" role="presentation" class="active">
+            <a
+              href="index.html#home"
+              aria-controls="home"
+              role="tab"
+              data-toggle="tab"
+              onclick="event.preventDefault()"
+              >QR</a
+            >
+          </li>
+          <li id="btn-log" role="presentation">
+            <a
+              href="index.html#log"
+              aria-controls="log"
+              role="tab"
+              data-toggle="tab"
+              onclick="event.preventDefault()"
+              >Historial</a
+            >
+          </li>
+        </ul>
+
+        <hr />
+        <div class="tab-content">
+          <!-- TAB HOME -->
+          <div role="tabpanel" class="tab-pane active" id="home">
+            <div>
+              <div class="form-signin">
+                <div class="alert alert-info alert-dismissible mobile-only">
+                  <a
+                    href="index.html#"
+                    class="close"
+                    data-dismiss="alert"
+                    aria-label="close"
+                    >&times;</a
+                  >
+                  Tome una foto del <strong>código QR</strong> o ingrese el
+                  resultado en el campo de texto.
+                </div>
+                <div class="alert alert-info alert-dismissible desktop-only">
+                  <a
+                    href="index.html#"
+                    class="close"
+                    data-dismiss="alert"
+                    aria-label="close"
+                    >&times;</a
+                  >
+                  Ingrese el <strong>código obtenido</strong> en el campo de
+                  texto.
+                </div>
+                <div id="div_qr-video">
+                  <button
+                    class="btn btn-sm btn-danger btn-main mobile-only loading"
+                    id="camera_cerrar"
+                  >
+                    <span
+                      class="glyphicon glyphicon-remove"
+                      aria-hidden="true"
+                    ></span>
+                    Cerrar cámara
+                  </button>
+                  <!-- <video id="qr-video"></video> -->
+                  <div id="qr-video"></div><br>
+                </div>
+                <button
+                  class="btn btn-lg btn-primary btn-main mobile-only loading"
+                  data-loading-text="Procesando..."
+                  id="camera"
+                >
+                  <span
+                    class="glyphicon glyphicon-camera"
+                    aria-hidden="true"
+                  ></span>
+                  Escanear
+                </button>
+
+                <textarea
+                  placeholder="Pegue el código del recuento aquí."
+                  class="form-control"
+                  id="qr-data"
+                ></textarea>
+
+                <button class="btn btn-lg btn-primary btn-main" id="procesar">
+                  Leer código
+                </button>
+                <button class="btn btn-lg btn-primary btn-main" id="limpiar">
+                  Limpiar
+                </button>
+
+                <div id="mensaje" class="alert alert-danger">
+                  <strong>&iexcl;Error!</strong> <span class="msg"></span>
+                </div>
+              </div>
+            </div>
+
+            <div id="resultado">
+              <div id="datos"></div>
+              <div role="tabpanel">
+                <p>
+                  Presione <a id="share">aquí para descargar</a> los resultados
+                  en texto plano. También puede copiarlos desde la pestaña CSV.
+                </p>
+                <ul class="nav nav-tabs" role="tablist">
+                  <li class="active">
+                    <a
+                      href="index.html#tablas"
+                      data-toggle="tab"
+                      onclick="event.preventDefault()"
+                      >Resultados</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="index.html#raw"
+                      data-toggle="tab"
+                      onclick="event.preventDefault()"
+                      >CSV</a
+                    >
+                  </li>
+                </ul>
+                <div class="tab-content">
+                  <div
+                    role="tabpanel"
+                    id="tablas"
+                    class="tab-pane active table-responsive"
+                    name="tablas"
+                    style="border: 0px"
+                  >
+                    <div id="tabla-recuento"></div>
+                  </div>
+                  <div role="tabpanel" id="raw" class="tab-pane" name="raw">
+                    <div>
+                      <h4>Recuento</h4>
+                      <textarea
+                        id="raw-recuento"
+                        readonly
+                        rows="10"
+                        class="form-control raw"
+                      >
+                      </textarea>
+                    </div>
+
+                    <br />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- TAB LOG -->
+          <div role="tabpanel" class="tab-pane" id="log">
+            <div class="clearfix">
+              <button id="log-clear" class="btn btn-default pull-right">
+                Limpiar
+              </button>
+            </div>
+            <div id="log-content"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="js/procesar.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/pako.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/smart_numpacker_config.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/crc32.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/unpacking.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/file.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/main.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/fetch.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/palier.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/jshtml5qrcode/qr-scanner-worker.min.js"></script>
+  <script src="js/jshtml5qrcode/qr-scanner.umd.min.js"></script>
+  <script src="js/jshtml5qrcode/html5-qrcode.min.js" type="text/javascript"></script>
+</html>
