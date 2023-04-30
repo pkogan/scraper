@@ -16,6 +16,8 @@ foreach ($candidatos as $key => $value) {
     $linea[]=$value['votos'];
 }
 $linea[]=$hora;
+$fecha_actual = date("d-m-Y H:i:s");
+$linea[]=$fecha_actual;
 $fp = fopen($carpeta.'/salida/log.csv', 'r+');
 fseek($fp, 0, SEEK_END);
 fputcsv($fp, $linea);
