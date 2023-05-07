@@ -23,13 +23,16 @@ foreach ($ubicaciones as $key => $value) {
     if($value['clase_ubicacion']=='Mesa'){
         //print_r($value['ancestros']);
         
-        $url=$urloficial. str_replace('.', '/', $value['id_ubicacion']).'/GOB.json';//'/RPO.json';//'/CNJ.json';
+        $url=$urloficial. str_replace('.', '/', $value['id_ubicacion']).'/DIP.json';//'/RPO.json';//'/CNJ.json';
         $mesas[$value['descripcion_ubicacion']]['numero']=$value['descripcion_ubicacion'];
         $mesas[$value['descripcion_ubicacion']]['url']=$url;
     //    echo $url.'<br>';
         
     }
 }
+
+//posta https://neuquen.datosoficiales.com/resultados/NE/1/22/52/59/INT.json
+////    https://neuquen.datosoficiales.com/resultados/NE/1/10/15/729/INT.jso
 //posta https://neuquen.datosoficiales.com/resultados/NE/1/22/52/59/GOB.json
 ////https://neuquen.datosoficiales.com/#resultados/NE/1/22/95/616GOB.json
 //echo '<pre>' . print_r($mesas, true) . '</pre>';
