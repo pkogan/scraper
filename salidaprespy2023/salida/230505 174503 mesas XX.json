@@ -1,0 +1,162 @@
+{
+    "totales": {
+        "totalMesas": 12259,
+        "mesasPublicadas": 12252,
+        "blancos": 68242,
+        "nulos": 13240,
+        "totalVotos": 3022946,
+        "canElectores": 4782940,
+        "canElectoresPublicados": 4780033,
+        "nocomputados": 613,
+        "tipCandidatura": 1
+    },
+    "candidatos": [
+        {
+            "orden": 1,
+            "numLista": "1",
+            "nomCandidato": "Santi Pe\u00f1a - Pedro Alliana",
+            "desPartido": "PARTIDO COLORADO",
+            "colLista": "255,0,0",
+            "votos": 1292079,
+            "imgCandidato": "534663",
+            "candidatosPref": null
+        },
+        {
+            "orden": 2,
+            "numLista": "3",
+            "nomCandidato": "Efra\u00edn Alegre - Sole N\u00fa\u00f1ez",
+            "desPartido": "CONCERTACION NACIONAL PARA UN NUEVO PARAGUAY",
+            "colLista": "255,255,255",
+            "votos": 830842,
+            "imgCandidato": "530757",
+            "candidatosPref": null
+        },
+        {
+            "orden": 3,
+            "numLista": "7",
+            "nomCandidato": "Jorge Humberto Gomez Ota\u00f1o - Noelia N\u00fa\u00f1ez",
+            "desPartido": "PARTIDO UNACE",
+            "colLista": "81,122,0",
+            "votos": 12072,
+            "imgCandidato": "528089",
+            "candidatosPref": null
+        },
+        {
+            "orden": 4,
+            "numLista": "10",
+            "nomCandidato": "Euclides Acevedo - Jorge Querey",
+            "desPartido": "MOVIMIENTO POLITICO LA NUEVA REPUBLICA",
+            "colLista": "73,31,72",
+            "votos": 41194,
+            "imgCandidato": "526577",
+            "candidatosPref": null
+        },
+        {
+            "orden": 5,
+            "numLista": "14",
+            "nomCandidato": "Juan Felix Romero Lovera - Catalina Ramirez Alvarenga",
+            "desPartido": "MOVIMIENTO HUMANISTA Y SOLIDARIO",
+            "colLista": "45,71,29",
+            "votos": 5871,
+            "imgCandidato": "527201",
+            "candidatosPref": null
+        },
+        {
+            "orden": 6,
+            "numLista": "15",
+            "nomCandidato": "Luis Talavera Alegre - Celso Alvarez Amarilla",
+            "desPartido": "PARTIDO NACIONAL UNAMONOS",
+            "colLista": "255,255,102",
+            "votos": 17346,
+            "imgCandidato": "534740",
+            "candidatosPref": null
+        },
+        {
+            "orden": 7,
+            "numLista": "21",
+            "nomCandidato": "Jose Luis Felix Chilavert Gonzalez - Sofia Clara Scheid Vazquez",
+            "desPartido": "PARTIDO DE LA JUVENTUD FUERZA JOVEN",
+            "colLista": "216,255,64",
+            "votos": 24284,
+            "imgCandidato": "529773",
+            "candidatosPref": null
+        },
+        {
+            "orden": 8,
+            "numLista": "23",
+            "nomCandidato": "Lic Oscar Ca\u00f1ete - Ing Amb Luis Wilfrido Arce",
+            "desPartido": "PARTIDO VERDE PARAGUAY PVP",
+            "colLista": "163,204,173",
+            "votos": 4855,
+            "imgCandidato": "528466",
+            "candidatosPref": null
+        },
+        {
+            "orden": 9,
+            "numLista": "30",
+            "nomCandidato": "Prudencio Burgos - Leona Guarani",
+            "desPartido": "PARTIDO NACIONAL DE LA GENTE 30A",
+            "colLista": "94,98,115",
+            "votos": 5262,
+            "imgCandidato": "537787",
+            "candidatosPref": null
+        },
+        {
+            "orden": 10,
+            "numLista": "33",
+            "nomCandidato": "Alfredo Machuca - Justina Noguera",
+            "desPartido": "MOV. INDEPEND. COORDINADORA PATRIOTICA CIUDADANA",
+            "colLista": "130,120,29",
+            "votos": 5212,
+            "imgCandidato": "530020",
+            "candidatosPref": null
+        },
+        {
+            "orden": 11,
+            "numLista": "45",
+            "nomCandidato": "Dra. Rosa Bogarin - Ing. Herminio Lesme",
+            "desPartido": "PARTIDO SOCIALISTA DEMOCRATICO HEREDEROS",
+            "colLista": "255,217,102",
+            "votos": 5274,
+            "imgCandidato": "535928",
+            "candidatosPref": null
+        },
+        {
+            "orden": 12,
+            "numLista": "777",
+            "nomCandidato": "Aurelio Martinez Cabral - David Sanchez",
+            "desPartido": "UNETE PARAGUAY",
+            "colLista": "176,84,84",
+            "votos": 3897,
+            "imgCandidato": "539019",
+            "candidatosPref": null
+        },
+        {
+            "orden": 13,
+            "numLista": "911",
+            "nomCandidato": "Payo Cubas - Stilber Valdes",
+            "desPartido": "PARTIDO CRUZADA NACIONAL",
+            "colLista": "0,0,0",
+            "votos": 692663,
+            "imgCandidato": "528092",
+            "candidatosPref": null
+        }
+    ],
+    "hora": {
+        "year": 2023,
+        "month": "MAY",
+        "dayOfYear": 125,
+        "dayOfWeek": "FRIDAY",
+        "dayOfMonth": 5,
+        "monthValue": 5,
+        "hour": 16,
+        "minute": 43,
+        "second": 47,
+        "nano": 508000000,
+        "chronology": {
+            "calendarType": "iso8601",
+            "id": "ISO"
+        }
+    },
+    "horaFormated": "05-05-2023 16:43:47"
+}
