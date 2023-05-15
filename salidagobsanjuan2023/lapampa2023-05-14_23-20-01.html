@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<!--<![endif]-->
+<head>
+        <title>Elecciones Generales 2023 - Provincia de La Pampa</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta charset="ISO-8859-1">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="" name=Elecciones Generales 2023 - Provincia de La Pampa>
+        <meta content="" name="Tribunal Electoral de la Provincia de La Pampa">
+        <link href="/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="/css/style.css">
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/css/estilosGuia.css" rel="stylesheet">
+        <link href="favicon.ico" rel="shortcut icon">
+         <!--[if lt IE 9]>
+                 <script src="/js/html5shiv.js"></script>
+                <script src="/js/respond.min.js"></script>
+         <![endif]-->       
+</head>
+<body style="padding-top: 160px;">
+<!-- ENCABEZADO DE PAGINA -->
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+   <div class="primary">
+     <div class="container-fluid">
+      <img class="pull-left" src="/img/logo_tribunal.png">
+            <a href="#" data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span> </a>
+            <img class="pull-right" src="/img/escudo_chico.png">
+          <a href="Eleccionwr.htm" class="brand">Elecciones Generales 2023 - Provincia de La Pampa</a>
+     </div>
+   </div>
+<!-- Menu con los Partidos -->
+  <div class="row menuhorizontal">
+    <div class="col-xs-12 col-lg-12">
+       <div class="clearfix"> </div>
+            <div class="container-fluid"> 
+                <div class="navbar-header">     
+                  <button class="navbar-toggle" aria-controls="navbar" aria-expanded="true" type="button" data-toggle="collapse" data-target="#navbar">
+                   <span class="sr-only">Toggle navigation</span>
+                   <span class="icon-bar"></span>
+                   <span class="icon-bar"></span>
+                   <span class="icon-bar"></span>
+                 </button>
+                   <a class="navbar-brand" href="Eleccionwr.htm?Partido=1&User=">Inicio</a>
+                </div>
+            </div><!-- ------------container-fluid------------------ -->       
+        </div><!-- ---------------col-xs-12 col-lg-12------------------- -->
+  </div><!-- ----------------row menuhorizontal-------------------- -->
+<!-- Fin Menu con los Partidos -->
+</nav> 
+<div class="clearfix"></div>
+<div id="content-wrapper">
+        <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12">
+              <div class="widget-box">
+                <div class="widget-body">
+                  <div class="widget-main">
+                              <h3 class="text-center">RESULTADOS PARA UN CARGO</h3>
+                              <h4 class="text-center">Recuento Provisional de Resultados</h4>
+                      <hr>
+               </script>
+                               <FORM class="form-inline"  NAME="ECxLocCo" action="https://eleccionesgenerales2023.lapampa.gob.ar/scripts/cgiip.exe/WService=ElecGrales2023/ECxLocCowr.htm?Partido=1&SelectCargo=&SelectLocalidad=9999&User="  METHOD="Post">
+                        <div class="form-group">
+                          <label>Cargo: </label>
+                            <select name="SelectCargo" onchange=submit(); class="form-control">
+                                      <OPTION selected Value=1P>Gobernador/a-Vicegobernador/a                                      </OPTION>
+                                      <OPTION  Value=2P>Diputado/a Provincial                                      </OPTION>
+                                      <OPTION  Value=4L>Intendente/a-Pte./a Com. Fom.                                      </OPTION>
+                                      <OPTION  Value=5L>Concejal/a-Vocal/a                                      </OPTION>
+                                      <OPTION  Value=6L>Juez/a de Paz                                      </OPTION>
+                            </select>
+                        </div>
+                                                   <div class="checkbox"> 
+                                                      <label>
+                                                       <input type="Checkbox" name="EnUnaLocalidad" onclick=submit(); >En una Localidad </label>
+                                                    </div>
+                            <!--                        <td width="34%">&nbsp;</td>  -->
+                                              <div class="checkbox">  
+                                                    <strong>Porcentaje Total</strong> calculados sobre: <BR>
+                                                     <!-- INTERNAS: para las internas 2019 mATÍAS Bentivegna definió que el % sobre el total de escrutados (que suma el total de votos de las mesas de afiliados del partido + los votos de las mesas de independientes )
+                                                     no se muestre más, sino que se muestre el % sobre el total de votos q obtuvo el partido -->
+                                                            <label>
+                                                            <input type="radio" name="RsPorcenSobre" value="T"  onclick="submit()"   >
+                                                            Total de Votos Escrutados  
+                                                            </label>
+                                                    <label>
+                                                    <input type="radio" name="RsPorcenSobre" value="P" checked onClick="submit()">
+                                                    Total de Votos Positivos  </label>
+                                                    <label>
+                                                    <input type="radio" name="RsPorcenSobre" value="V"  onClick="submit()">
+                                                    Total de Votos Válidos  </label>
+                                              </div>
+                            </form>
+                            <div class="table-responsive"> <!-- div reSPONSIVE TABLA GRILLA 1 DE RESULTADOS-->
+                                    <!-- **********   A R M O   E N C A B E Z A D O   D E L   B R O W S E   ********** -->
+                                    <!-- <table border="1" cellpadding="0" cellspacing="0" width="100%">  -->
+                                          <table class="table table-hover"> <!-- TABLA RESPONSIVE GRILLA 1 DE RESULTADOS-->
+                                            <thead>
+                                                <tr>
+                                                  <th>Lista</th>
+                                                  <th>Primer Candidato</th>
+                                                  <th>Tot. Votos</th>
+                                                                 <th>%</th>
+                                                </tr>
+                                              </thead>
+                                              <tbody>
+                                                                            <tr>
+                                                                                  <td class="text-center"><a href='https://eleccionesgenerales2023.lapampa.gob.ar/scripts/cgiip.exe/WService=ElecGrales2023/ECandiCowr.htm?Partido=1&NroLista=502&CodLoc=0&URLAnterior=ECxLocCowr.htm?Regreso@11P09999'><strong>Lista 502</strong></a></td>
+                                                                                  <!--<td align="center" class="textonormal">Lista 502</td>-->
+                                                                                  <td class="text-center">Gobernador/a: ZILIOTTO, SERGIO RAÚL MI 14928168 - Vicegobernador/a: MAYORAL, ALICIA SUSANA MI 14178476                                                </td>
+                                                                                  <td>53721</td>
+                                                                                  <td> 47,51</td>
+                                                                        </tr>
+                                                                            <tr>
+                                                                                  <td class="text-center"><a href='https://eleccionesgenerales2023.lapampa.gob.ar/scripts/cgiip.exe/WService=ElecGrales2023/ECandiCowr.htm?Partido=1&NroLista=501&CodLoc=0&URLAnterior=ECxLocCowr.htm?Regreso@11P09999'><strong>Lista 501</strong></a></td>
+                                                                                  <!--<td align="center" class="textonormal">Lista 501</td>-->
+                                                                                  <td class="text-center">Gobernador/a: BERHONGARAY, MARTÍN ANTONIO MI 26389054 - Vicegobernador/a: TESTA, PATRICIA CLELIA MI 14625221                                          </td>
+                                                                                  <td>46698</td>
+                                                                                  <td> 41,30</td>
+                                                                        </tr>
+                                                                            <tr>
+                                                                                  <td class="text-center"><a href='https://eleccionesgenerales2023.lapampa.gob.ar/scripts/cgiip.exe/WService=ElecGrales2023/ECandiCowr.htm?Partido=1&NroLista=94&CodLoc=0&URLAnterior=ECxLocCowr.htm?Regreso@11P09999'><strong>Lista 94</strong></a></td>
+                                                                                  <!--<td align="center" class="textonormal">Lista 94</td>-->
+                                                                                  <td class="text-center">Gobernador/a: TIERNO, JUAN CARLOS MI 11137280 - Vicegobernador/a: WINSCHEL, VIVIANA MI 22867759                                                       </td>
+                                                                                  <td>8359</td>
+                                                                                  <td>  7,39</td>
+                                                                        </tr>
+                                                                            <tr>
+                                                                                  <td class="text-center"><a href='https://eleccionesgenerales2023.lapampa.gob.ar/scripts/cgiip.exe/WService=ElecGrales2023/ECandiCowr.htm?Partido=1&NroLista=503&CodLoc=0&URLAnterior=ECxLocCowr.htm?Regreso@11P09999'><strong>Lista 503</strong></a></td>
+                                                                                  <!--<td align="center" class="textonormal">Lista 503</td>-->
+                                                                                  <td class="text-center">Gobernador/a: GONZÁLEZ CABIATI, LUCIANO MI  25851753 - Vicegobernador/a: FERNÁNDEZ, SOFÍA MERCEDES MI 12194683                                        </td>
+                                                                                  <td>1726</td>
+                                                                                  <td>  1,53</td>
+                                                                        </tr>
+                                                                            <tr>
+                                                                                  <td class="text-center"><a href='https://eleccionesgenerales2023.lapampa.gob.ar/scripts/cgiip.exe/WService=ElecGrales2023/ECandiCowr.htm?Partido=1&NroLista=7&CodLoc=0&URLAnterior=ECxLocCowr.htm?Regreso@11P09999'><strong>Lista 7</strong></a></td>
+                                                                                  <!--<td align="center" class="textonormal">Lista 7</td>-->
+                                                                                  <td class="text-center">Gobernador/a: FAZZINI, HÉCTOR CLAUDIO MI 12608320 - Vicegobernador/a: WISNER, SONIA ANALÍA MI  22936686                                               </td>
+                                                                                  <td>1288</td>
+                                                                                  <td>  1,14</td>
+                                                                        </tr>
+                                                                            <tr>
+                                                                                  <td class="text-center"><a href='https://eleccionesgenerales2023.lapampa.gob.ar/scripts/cgiip.exe/WService=ElecGrales2023/ECandiCowr.htm?Partido=1&NroLista=115&CodLoc=0&URLAnterior=ECxLocCowr.htm?Regreso@11P09999'><strong>Lista 115</strong></a></td>
+                                                                                  <!--<td align="center" class="textonormal">Lista 115</td>-->
+                                                                                  <td class="text-center">Gobernador/a: ACOSTA, CLAUDIO ALEJANDRO MI 23186987 - Vicegobernador/a: GONZÁLEZ, MARÍA LAURA MI 24517900                                             </td>
+                                                                                  <td>1272</td>
+                                                                                  <td>  1,13</td>
+                                                                        </tr>
+                                                             <tr >
+                                                             </tr>
+                                                             <tr>
+                                                  <!--                  <td align="center" class="textonormal">&nbsp;</td>  -->
+                                                                   <td class="text-center" colspan="2">VOTOS BLANCOS</td>
+                                                                   <td >7273</td>
+                                                                           <td >0.00</td >
+                                                             </tr>
+                                                             <tr>
+                                                  <!--                  <td align="center" class="textonormal">&nbsp;</td>  -->
+                                                                   <td class="text-center" colspan="2">VOTOS NULOS</td>
+                                                                   <td >1598</td>
+                                                                           <td >0.00</td >
+                                                             </tr>
+                                                             <tr>
+                                                  <!--                  <td align="center" class="textonormal">&nbsp;</td>  -->
+                                                                   <td class="text-center" colspan="2">VOTOS RECURRIDOS</td>
+                                                                   <td >25</td>
+                                                                           <td >0.00</td >
+                                                             </tr>
+                                                             <tr>
+                                                  <!--                  <td align="center" class="textonormal">&nbsp;</td>  -->
+                                                                   <td class="text-center" colspan="2">VOTOS IMPUGNADOS</td>
+                                                                   <td >10</td>
+                                                                           <td >0.00</td >
+                                                             </tr>
+                                              </tbody>
+                                           </table><!-- TABLA RESPONSIVE GRILLA 1 DE RESULTADOS-->
+                                       </div><!--<div class="table-responsive">-->
+                                       <div class="top30"></div>
+                                    <div class="container">    
+                                       <div class="table-responsive"><!-- div reSPONSIVE TABLA GRILLA INFERIOR DE MESAS HABILITADAS/ESCRUTADAS-->
+                                            <table class="table table-hover"><!-- TABLA GRILLA INFERIOR DE MESAS HABILITADAS/ESCRUTADAS-->
+                                                <thead>
+                                                    <tr>
+                                                        <!--<th>&nbsp;</th>-->
+                                                        <th colspan=4>Mesas</th>
+                                                        <!--<th colspan=3>Votos</th>-->
+                                                    </tr>
+                                                </thead>    
+                                                <tbody>    
+                                                    <tr>
+                                                        <td>&nbsp;</td>
+                                                        <td class="text-center">Habilitadas</td>
+                                                        <td class="text-center">Escrutadas</td>
+                                                        <td class="text-center">%</td>
+                                                        <!--<td class="text-center">Habilitados</td>-->
+                                                        <!--<td class="text-center">Escrutados</td>-->
+                                                        <!--<td class="text-center">%</td>-->
+                                                    </tr>
+                                                    <tr class="resaltado">
+                                                        <td class="text-center">Totales</td>
+                                                        <td>889</td>
+                                                        <td>489</td>
+                                                        <td> 55,01</td>
+                                                        <!--<td>298067</td>-->
+                                                        <!--<td>122008</td>-->
+                                                        <!--<td> 40,93</td>-->
+                                                    </tr>
+                                                <tbody>    
+                                            </table><!--<table class="table table-hover"> - TABLA GRILLA INFERIOR DE MESAS HABILITADAS/ESCRUTADAS--><!---<div class="table-responsive" DE GRILLA INFERIOR DE MESAS ESCU-->     
+                                        </div><!---<div class="table-responsive"-->     
+                                     </div><!---<div class="container"-->     
+                                       <div class="table-responsive text-right"><!-- DIV RESPONSIVE TABLA BARRA HERRAMIENTAS-->
+                                            <button onclick="javascript:window.print();" type="button" class="btn btn-primary "><i class="fa fa-print"></i> Imprimir</button>                    
+                                            <h6>Actualizada al 14/05/2023-23:20:59</h6>
+                                        </div><!-- DIV RESPONSIVE TABLA BARRA HERRAMIENTAS-->
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- ---col-xs-12 --- --> 
+          </div>
+               <!-- --------------------------------------------------------------------------------- --> 
+        </div><!-- container-fluid --> 
+</div><!-- content-wrapper --> 
+<div class="navbar-fixed-bottom info">
+  <footer>
+            <div class="container-fluid">
+                <div class="col-xs-12 ">
+                &copy; 2023 <a href='https://conectividadymodernizacion.lapampa.gob.ar/' target="_blank">Sistema desarrollado por la Dirección de Servicios Informáticos - Sub. de Tecnologías, Conocimiento e Innovación - Ministerio de Conectividad y Modernización</a>
+              </div><!-- /span12 -->
+            </div> <!-- /container-fluid --> 
+  </footer>
+</div>
+<!-- Bootstrap core JavaScript
+================================================== --> 
+<!-- Core JS --> 
+        <script src="/js/jquery.js"></script>
+        <script src="/js/bootstrap.min.js"></script>
+</body>
+</html>

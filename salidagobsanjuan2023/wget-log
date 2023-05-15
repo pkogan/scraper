@@ -1,0 +1,11 @@
+--2023-05-14 21:04:47--  https://eleccionesgenerales2023.lapampa.gob.ar/scripts/cgiip.exe/WService=ElecGrales2023/ECxLocCowr.htm?Partido=1
+Resolviendo eleccionesgenerales2023.lapampa.gob.ar (eleccionesgenerales2023.lapampa.gob.ar)... 170.84.170.140
+Conectando con eleccionesgenerales2023.lapampa.gob.ar (eleccionesgenerales2023.lapampa.gob.ar)[170.84.170.140]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 20875 (20K) [text/html]
+Grabando a: “lapampa2023-05-14_21-04-41.html”
+
+          lapampa20   0%[                    ]       0  --.-KB/s               lapampa2023-05-14_2 100%[===================>]  20,39K  --.-KB/s    en 0,1s    
+
+2023-05-14 21:04:49 (159 KB/s) - “lapampa2023-05-14_21-04-41.html” guardado [20875/20875]
+
