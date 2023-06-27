@@ -1,0 +1,79 @@
+[
+    {
+        "cargo_ejecutivo": false,
+        "consulta_popular": false,
+        "descripcion_cargo": "GOBERNADOR",
+        "id_cargo": "GOB",
+        "nro_de_orden": 1
+    },
+    {
+        "cargo_ejecutivo": false,
+        "consulta_popular": false,
+        "descripcion_cargo": "LEGISLADOR POR REPRESENTACION POBLACIONAL",
+        "id_cargo": "LRP",
+        "nro_de_orden": 2
+    },
+    {
+        "cargo_ejecutivo": false,
+        "consulta_popular": false,
+        "descripcion_cargo": "LEGISLADOR CIRCUITAL",
+        "id_cargo": "LEC",
+        "nro_de_orden": 3
+    },
+    {
+        "cargo_ejecutivo": false,
+        "consulta_popular": false,
+        "descripcion_cargo": "COMISIONADO DE FOMENTO",
+        "id_cargo": "CDF",
+        "nro_de_orden": 4
+    },
+    {
+        "cargo_ejecutivo": false,
+        "consulta_popular": false,
+        "descripcion_cargo": "VOCAL DE COMISI\u00d3N DE FOMENTO",
+        "id_cargo": "VCF",
+        "nro_de_orden": 5
+    },
+    {
+        "cargo_ejecutivo": false,
+        "consulta_popular": false,
+        "descripcion_cargo": "INTENDENTE MUNICIPAL",
+        "id_cargo": "INM",
+        "nro_de_orden": 6
+    },
+    {
+        "cargo_ejecutivo": false,
+        "consulta_popular": false,
+        "descripcion_cargo": "CONCEJAL MUNICIPAL",
+        "id_cargo": "CLM",
+        "nro_de_orden": 7
+    },
+    {
+        "cargo_ejecutivo": false,
+        "consulta_popular": false,
+        "descripcion_cargo": "MIEMBRO DEL TRIBUNAL DE CUENTAS",
+        "id_cargo": "MTC",
+        "nro_de_orden": 8
+    },
+    {
+        "cargo_ejecutivo": false,
+        "consulta_popular": false,
+        "descripcion_cargo": "MIEMBRO DE LA CONTRALOR\u00cdA MUNICIPAL",
+        "id_cargo": "MCM",
+        "nro_de_orden": 9
+    },
+    {
+        "cargo_ejecutivo": false,
+        "consulta_popular": false,
+        "descripcion_cargo": "SINDICO",
+        "id_cargo": "SIN",
+        "nro_de_orden": 10
+    },
+    {
+        "cargo_ejecutivo": false,
+        "consulta_popular": false,
+        "descripcion_cargo": "REPRESENTANTES DEL ENDECON",
+        "id_cargo": "RDE",
+        "nro_de_orden": 11
+    }
+]
