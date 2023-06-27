@@ -23,7 +23,7 @@ foreach ($ubicaciones as $key => $value) {
     if($value['clase_ubicacion']=='Mesa'){
         //print_r($value['ancestros']);
         
-        $url=$urloficial. str_replace('.', '/', $value['id_ubicacion']).'/GOB.json';//'/RPO.json';//'/CNJ.json';
+        $url=$urloficial. str_replace('.', '/', $value['id_ubicacion']).'/LEC.json';//'/LRP.json';//'/GOB.json';//'/RPO.json';//'/CNJ.json';
         $mesas[$value['descripcion_ubicacion']]['numero']=$value['descripcion_ubicacion'];
         $mesas[$value['descripcion_ubicacion']]['url']=$url;
     //    echo $url.'<br>';

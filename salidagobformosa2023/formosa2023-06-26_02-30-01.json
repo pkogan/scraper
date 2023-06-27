@@ -1,0 +1,9 @@
+{"titulo":"Resultados Provinciales - Gobernador","avance":{"total_mesas":"1475","total_escrutadas":"1407","hora_generacion":"2023-06-26 02:30:01"} ,"votos":{"votos_positivos":"314107","votos_blancos":"14576","votos_nulos":"3249","votos_recurridos":"612","votos_impugnados":"240","votos_totales":"332784"}, "votos_positivos_candidatos":[
+			{"numero_lema":"2","lema":"PARTIDO JUSTICIALISTA","candidato":"INSFRAN GILDO","foto":"https://cdn-elecciones.formosa.gob.ar/media/uploads/candidatos/candidato_1686839620-croped.jpg","votos":"222834"}
+			,
+			{"numero_lema":"2163","lema":"CONFEDERACION FRENTE AMPLIO FORMOSEÑO","candidato":"CARBAJAL FERNANDO","foto":"https://cdn-elecciones.formosa.gob.ar/media/uploads/candidatos/candidato_1686838781-croped.jpg","votos":"64677"}
+			,
+			{"numero_lema":"237","lema":"LIBERTAD TRABAJO Y PROGRESO","candidato":"PAOLTRONI FRANCISCO MANUEL TORITO","foto":"https://cdn-elecciones.formosa.gob.ar/media/uploads/candidatos/candidato_1686838884-croped.jpg","votos":"25382"}
+			,
+			{"numero_lema":"204","lema":"PARTIDO OBRERO","candidato":"SERVIN CARLOS FABIAN","foto":"https://cdn-elecciones.formosa.gob.ar/media/uploads/candidatos/candidato_1686839245-croped.jpg","votos":"1214"}
+			]}
