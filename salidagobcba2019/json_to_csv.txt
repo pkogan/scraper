@@ -1,0 +1,3 @@
+cat 190513\ 154545\ mesas\ 8537.json | jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv'> gobcba2019.csv
+
+cat ubicaciones.json | jq -r '["clase_ubicacion","descripcion_ubicacion", "id_ubicacion"], (.[] | [.clase_ubicacion, .descripcion_ubicacion, .id_ubicacion]) | @csv '> ubicacionescba2019.csv
