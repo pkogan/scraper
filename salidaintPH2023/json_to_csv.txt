@@ -1,0 +1,5 @@
+cat 230416\ 231006\ mesas\ 1651.json | jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv'> gobnqn.csv
+
+cat ubicaciones.json | jq -r '["clase_ubicacion","descripcion_ubicacion", "id_ubicacion"], (.[] | [.clase_ubicacion, .descripcion_ubicacion, .id_ubicacion]) | @csv '> ubicaciones.csv
+
+cat meta.json | jq -r '.candidaturas[] | [.id_candidatura,  .nro_lista, .descripcion_lista, .candidatos_principales.INT.descripcion] | @csv '> meta.csv
