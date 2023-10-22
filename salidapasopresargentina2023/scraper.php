@@ -67,13 +67,16 @@ $mesas2=array();
     {"l":7,"n":"Establecimiento"},
     {"l":8,"n":"Mesa"}]
 */
-//$distrito_str="15-Neuquen";
-$distrito_str="01-CABA";
+$distrito_str="15-Neuquen";
+$distrito_str="16-Río Negro";
+//$distrito_str="01-CABA";
+$categoria='1-Presidente';
+$categoria='3-Diputados Nacionales';
 $cod_distrito=substr($distrito_str,0,2);
 foreach ($ubicaciones['amb'][12]['ambitos'] as  $key=>$mesaa) {
     if(substr($mesaa['co'],0,2)==$cod_distrito&&$mesaa['l']==8){ //15-Neuquen
         echo $key."-".$mesaa['co']."\n";
-        $url=$urloficial.$mesaa['co'].'/01';
+        $url=$urloficial.$mesaa['co'].'/'.substr($categoria,0,1);
         echo $url;
 
         if($mesa = curl_local($url) ){
@@ -117,6 +120,6 @@ foreach ($ubicaciones['amb'][12]['ambitos'] as  $key=>$mesaa) {
 
 //se escribe lo escrapeado en un json
 $jsonmesas=json_encode($mesas2,JSON_PRETTY_PRINT);
-file_put_contents('salida/'.$distrito_str.date('ymd His ').'mesas '.$cont_mesas.'.json', $jsonmesas);
+file_put_contents('salida/'.$distrito_str.'_'.$categoria.date('ymd His ').'mesas '.$cont_mesas.'.json', $jsonmesas);
 
 

@@ -1,0 +1,4 @@
+cat 230907\ 105911\ mesas\ 116_INT.json | jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv'> intPlottier.csv
+ cat 230907\ 110128\ mesas\ 116_CON.json | jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv'> cnjPlottier.csv
+
+cat ubicaciones.json | jq -r '["clase_ubicacion","descripcion_ubicacion", "id_ubicacion"], (.[] | [.clase_ubicacion, .descripcion_ubicacion, .id_ubicacion]) | @csv '> ubicaciones.csv
